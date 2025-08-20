@@ -1,1 +1,2425 @@
-{}
+{
+  "_id": {
+    "$oid": "68a30fecde4402f846acec5c"
+  },
+  "officieleTitel": "Omgevingsplan Montfoort",
+  "identificatie": "/akn/nl/act/gm0335/2022/Regeling6ee59c909934464bb841fd4c7de14506",
+  "isOntwerpRegeling": false,
+  "versie": 1,
+  "beginInwerking": "2022-10-19",
+  "beginGeldigheid": "2022-10-19",
+  "tijdstipRegistratie": "2022-10-19T11:29:42.199551Z",
+  "aangeleverdDoorEen": {
+    "naam": "gemeente Montfoort"
+  },
+  "documentstructuurUrl": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelingen/_akn_nl_act_gm0335_2022_Regeling6ee59c909934464bb841fd4c7de14506/documentcomponenten?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:28Z",
+  "documentStructuur": {
+    "children": [
+      {
+        "identificatie": "body",
+        "expressie": "body",
+        "type": "LICHAAM",
+        "volgordeNummer": 0,
+        "gereserveerd": false,
+        "vervallen": false,
+        "children": [
+          {
+            "identificatie": "gm0335_1__chp_1",
+            "expressie": "chp_1",
+            "type": "HOOFDSTUK",
+            "volgordeNummer": 0,
+            "gereserveerd": false,
+            "vervallen": false,
+            "label": "Hoofdstuk",
+            "nummer": "1",
+            "opschrift": "<div class=\"od-Opschrift\">Algemene bepalingen</div>",
+            "children": [
+              {
+                "identificatie": "gm0335_3e716f17dd674ce99f217c255988cc92__chp_1__art_1.1",
+                "expressie": "chp_1__art_1.1",
+                "type": "ARTIKEL",
+                "volgordeNummer": 0,
+                "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\"><span data-verwijst-naar-documentcomponent=\"cmp_II\" data-scope=\"\">bijlage II</span><span data-verwijst-naar-documentcomponent=\"cmp_II\" data-scope=\"\">bijlage II</span> bij dit omgevingsplan bevat begripsbepalingen voor de toepassing van dit omgevingsplan.</div></div>",
+                "gereserveerd": false,
+                "vervallen": false,
+                "label": "Artikel",
+                "nummer": "1.1",
+                "opschrift": "<div class=\"od-Opschrift\">Begripsbepalingen</div>",
+                "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.b4c5ded6e6ce46098c3d72be4405ae54?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                "locaties": [
+                  "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                ]
+              },
+              {
+                "identificatie": "gm0335_e1f934dd564049bba944bd945975cb60__chp_1__art_1.2",
+                "expressie": "chp_1__art_1.2",
+                "type": "ARTIKEL",
+                "volgordeNummer": 1,
+                "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Artikel 1.1 van het Omgevingsbesluit, artikel 1.1 van het Besluit kwaliteit leefomgeving, artikel 1.1 van het Besluit activiteiten leefomgeving en artikel 1.1 van het Besluit bouwwerken leefomgeving, zijn van overeenkomstige toepassing op dit omgevingsplan, tenzij in <span data-verwijst-naar-documentcomponent=\"cmp_II\" data-scope=\"\">bijlage II</span> daarvan is afgeweken.</div></div>",
+                "gereserveerd": false,
+                "vervallen": false,
+                "label": "Artikel",
+                "nummer": "1.2",
+                "opschrift": "<div class=\"od-Opschrift\">Aanvullende begripsbepalingen</div>",
+                "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.b5305abb2f374e469b12cb7d5bb1b9ce?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                "locaties": [
+                  "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                ]
+              }
+            ]
+          },
+          {
+            "identificatie": "gm0335_1__chp_2",
+            "expressie": "chp_2",
+            "type": "HOOFDSTUK",
+            "volgordeNummer": 1,
+            "gereserveerd": false,
+            "vervallen": false,
+            "label": "Hoofdstuk",
+            "nummer": "2",
+            "opschrift": "<div class=\"od-Opschrift\">Doelen</div>",
+            "children": [
+              {
+                "identificatie": "gm0335_1__chp_2__subchp_2.1",
+                "expressie": "chp_2__subchp_2.1",
+                "type": "AFDELING",
+                "volgordeNummer": 0,
+                "gereserveerd": false,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "2.1",
+                "opschrift": "<div class=\"od-Opschrift\">Doelen</div>",
+                "children": [
+                  {
+                    "identificatie": "gm0335_1__chp_2__subchp_2.1__art_2.1",
+                    "expressie": "chp_2__subchp_2.1__art_2.1",
+                    "type": "ARTIKEL",
+                    "volgordeNummer": 0,
+                    "gereserveerd": false,
+                    "vervallen": false,
+                    "label": "Artikel",
+                    "nummer": "2.1",
+                    "opschrift": "<div class=\"od-Opschrift\">Doel omgevingsplan</div>",
+                    "children": [
+                      {
+                        "identificatie": "gm0335_1__chp_2__subchp_2.1__art_2.1__para_1",
+                        "expressie": "chp_2__subchp_2.1__art_2.1__para_1",
+                        "type": "LID",
+                        "volgordeNummer": 0,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Dit omgevingsplan is, met het oog op de doelen van artikel 1.3 van de Omgevingswet, gericht op: </div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">a.</div><div class=\"od-Al\">het waarborgen van de veiligheid;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">b.</div><div class=\"od-Al\">het beschermen van de gezondheid;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">c.</div><div class=\"od-Al\">het beschermen van het milieu;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">d.</div><div class=\"od-Al\">het duurzaam veiligstellen van de openbare drinkwatervoorziening;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">e.</div><div class=\"od-Al\">het beschermen van landschappelijke of stedenbouwkundige waarden;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">f.</div><div class=\"od-Al\">het behoud van cultureel erfgoed;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">g.</div><div class=\"od-Al\">het behoud van de uitzonderlijke universele waarde van werelderfgoed;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">h.</div><div class=\"od-Al\">de natuurbescherming;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">i.</div><div class=\"od-Al\">het tegengaan van klimaatverandering;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">j.</div><div class=\"od-Al\">de kwaliteit van bouwwerken;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">k.</div><div class=\"od-Al\">een evenwichtige toedeling van functies aan locaties;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">l.</div><div class=\"od-Al\">de energiezuinigheid van bouwwerken;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">m.</div><div class=\"od-Al\">het behoeden van de staat en werking van infrastructuur voor nadelige gevolgen van activiteiten;het beheer van infrastructuur;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">n.</div><div class=\"od-Al\">het beheer van infrastructuur;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">o.</div><div class=\"od-Al\">het beheer van watersystemen;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">p.</div><div class=\"od-Al\">het beheer van geobiologische en geothermische systemen en ecosystemen;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">q.</div><div class=\"od-Al\">het beheer van natuurlijke hulpbronnen;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">r.</div><div class=\"od-Al\">het beheer van natuurgebieden;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">s.</div><div class=\"od-Al\">het beperken van hinder;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">t.</div><div class=\"od-Al\">het benutten van locaties en bouwwerken; en</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">u.</div><div class=\"od-Al\">het bevorderen van de toegankelijkheid van de openbare buitenruimte voor personen.</div></div></div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "nummer": "1",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.5882dfa412814ca99d8575b7fdab9fbf?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ],
+                        "activiteiten": [
+                          {
+                            "identificatie": "nl.imow-gm0335.activiteit.50fa2636c4794a5bb6d52bb49d1c2a43",
+                            "naam": "activiteiten in cursus plan"
+                          }
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_1__chp_2__subchp_2.1__art_2.1__para_2",
+                        "expressie": "chp_2__subchp_2.1__art_2.1__para_2",
+                        "type": "LID",
+                        "volgordeNummer": 1,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Dit omgevingsplan is ook gericht op de instandhouding van het bosareaal binnen de gemeente.</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "nummer": "2",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.b3ad58ff350c446db9befc8de8ecf6ba?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "identificatie": "gm0335_1__chp_2__subchp_2.2",
+                "expressie": "chp_2__subchp_2.2",
+                "type": "AFDELING",
+                "volgordeNummer": 1,
+                "gereserveerd": true,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "2.2",
+                "opschrift": "<div class=\"od-Opschrift\">Verplichte omgevingswaarden</div>"
+              },
+              {
+                "identificatie": "gm0335_1__chp_2__subchp_2.3",
+                "expressie": "chp_2__subchp_2.3",
+                "type": "AFDELING",
+                "volgordeNummer": 2,
+                "gereserveerd": true,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "2.3",
+                "opschrift": "<div class=\"od-Opschrift\">Facultatieve omgevingswaarden</div>"
+              }
+            ]
+          },
+          {
+            "identificatie": "gm0335_1__chp_3",
+            "expressie": "chp_3",
+            "type": "HOOFDSTUK",
+            "volgordeNummer": 2,
+            "gereserveerd": false,
+            "vervallen": false,
+            "label": "Hoofdstuk",
+            "nummer": "3",
+            "opschrift": "<div class=\"od-Opschrift\">Programma's</div>",
+            "children": [
+              {
+                "identificatie": "gm0335_1__chp_3__subchp_3.1",
+                "expressie": "chp_3__subchp_3.1",
+                "type": "AFDELING",
+                "volgordeNummer": 0,
+                "gereserveerd": true,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "3.1",
+                "opschrift": "<div class=\"od-Opschrift\">Programma's met programmatische aanpak</div>"
+              }
+            ]
+          },
+          {
+            "identificatie": "gm0335_1__chp_4",
+            "expressie": "chp_4",
+            "type": "HOOFDSTUK",
+            "volgordeNummer": 3,
+            "gereserveerd": false,
+            "vervallen": false,
+            "label": "Hoofdstuk",
+            "nummer": "4",
+            "opschrift": "<div class=\"od-Opschrift\">Aanwijzingen in de fysieke leefomgeving</div>",
+            "children": [
+              {
+                "identificatie": "gm0335_f465c0379ff4471fbc9f80b73d177a2a__chp_4__subchp_4.1",
+                "expressie": "chp_4__subchp_4.1",
+                "type": "AFDELING",
+                "volgordeNummer": 0,
+                "gereserveerd": false,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "4.1",
+                "opschrift": "<div class=\"od-Opschrift\">Thema's</div>",
+                "children": [
+                  {
+                    "identificatie": "gm0335_68e650d3dc94414eafdce927e1b212d5__chp_4__subchp_4.1__subsec_4.1.2",
+                    "expressie": "chp_4__subchp_4.1__subsec_4.1.1",
+                    "type": "PARAGRAAF",
+                    "volgordeNummer": 0,
+                    "gereserveerd": false,
+                    "vervallen": false,
+                    "label": "Paragraaf",
+                    "nummer": "4.1.1",
+                    "opschrift": "<div class=\"od-Opschrift\">Bouwwerken</div>",
+                    "children": [
+                      {
+                        "identificatie": "gm0335_b1595adcb2254fdbbd95adb857423b64__chp_4__subchp_4.1__subsec_4.1.2__art_4.12",
+                        "expressie": "chp_4__subchp_4.1__subsec_4.1.1__art_4.1",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 0,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Deze paragraaf gaat over activiteiten met betrekking tot bouwwerken.</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "4.1",
+                        "opschrift": "<div class=\"od-Opschrift\">Toepassingsbereik</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.8b770562fdb241a78ae0ff68acc90651?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_0a0828abd92549f0b457cebb7d47202f__chp_4__subchp_4.1__subsec_4.1.2__art_4.13",
+                        "expressie": "chp_4__subchp_4.1__subsec_4.1.1__art_4.2",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 1,
+                        "gereserveerd": true,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "4.2",
+                        "opschrift": "<div class=\"od-Opschrift\">Doelen</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.d4fea5062ec943aa8be47a46d13ad228?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_2bed5b88d0994422a3023c98cb9b4d43__chp_4__subchp_4.1__subsec_4.1.2__art_4.14",
+                        "expressie": "chp_4__subchp_4.1__subsec_4.1.1__art_4.3",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 2,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Bij het bouwen van hoofdgebouwen wordt voldaan aan:</div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">a.</div><div class=\"od-Al\"><span data-verwijst-naar-documentcomponent=\"chp_5__subchp_5.2__subsec_5.2.1\" data-scope=\"\">paragraaf 5.2.1</span> Bouwen - algemeen; en</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">b.</div><div class=\"od-Al\"><span data-verwijst-naar-documentcomponent=\"chp_5__subchp_5.2__subsec_5.2.2\" data-scope=\"\">paragraaf 5.2.2</span> Hoofdgebouw bouwen.</div></div></div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "4.3",
+                        "opschrift": "<div class=\"od-Opschrift\">Hoofdgebouw bouwen</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.f2de18c145c1499d8eb207bed72fb9d0?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "identificatie": "gm0335_85bfe19cb65b403cb46006afd76e0033__chp_4__subchp_4.1__subsec_4.1.2",
+                    "expressie": "chp_4__subchp_4.1__subsec_4.1.2",
+                    "type": "PARAGRAAF",
+                    "volgordeNummer": 1,
+                    "gereserveerd": false,
+                    "vervallen": false,
+                    "label": "Paragraaf",
+                    "nummer": "4.1.2",
+                    "opschrift": "<div class=\"od-Opschrift\">Openbaar toegankelijk gebied</div>",
+                    "children": [
+                      {
+                        "identificatie": "gm0335_ce47666a76e044e5a9e847ee1a2565e2__chp_4__subchp_4.1__subsec_4.1.2__art_4.8",
+                        "expressie": "chp_4__subchp_4.1__subsec_4.1.2__art_4.4",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 0,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Deze paragraaf gaat over het verrichten van activiteiten met betrekking tot de <span data-verwijst-naar-documentcomponent=\"gm0335_08625327b7e24d0eb4f2eedf128f777b__ref_1\">openbaar toegankelijk gebied</span>.</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "4.4",
+                        "opschrift": "<div class=\"od-Opschrift\">Toepassingsbereik</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.4005fc00332048609705b2e16d9808f2?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.gebied.b605a670d7d04b458d2a18d06cefa33b"
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_2ef1c14430504e918738416a0667f5db__chp_4__subchp_4.1__subsec_4.1.2__art_4.9",
+                        "expressie": "chp_4__subchp_4.1__subsec_4.1.2__art_4.5",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 1,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Gereserveerd</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "4.5",
+                        "opschrift": "<div class=\"od-Opschrift\">Doelen</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.2caa2504869d4a12a7fa004bfdbb17e6?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.gebied.b605a670d7d04b458d2a18d06cefa33b"
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_d035f848fbc74ae09858f66c2bde8ae1__chp_4__subchp_4.1__subsec_4.1.2__art_4.15",
+                        "expressie": "chp_4__subchp_4.1__subsec_4.1.2__art_4.6",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 2,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Bij het verrichten van activiteiten in het <span data-verwijst-naar-documentcomponent=\"cmp_II__content_o_1__list_o_1__item_o_1\" data-scope=\"\">openbaar toegankelijk gebied</span> wordt voldaan aan <span data-verwijst-naar-documentcomponent=\"chp_5__subchp_5.2__subsec_5.2.3\" data-scope=\"\">paragraaf 5.2.3</span> Activiteit verrichten in openbaar toegankelijk gebied.</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "4.6",
+                        "opschrift": "<div class=\"od-Opschrift\">Activiteiten in openbaar toegankelijk gebied</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.39606d33f6e14689aad527e8915282af?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.gebied.b605a670d7d04b458d2a18d06cefa33b"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "identificatie": "gm0335_ad18a4229c7a40ddb6dbc47cd0de428d__chp_4__subchp_4.2",
+                "expressie": "chp_4__subchp_4.2",
+                "type": "AFDELING",
+                "volgordeNummer": 1,
+                "gereserveerd": false,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "4.2",
+                "opschrift": "<div class=\"od-Opschrift\">Gebiedstypen</div>",
+                "children": [
+                  {
+                    "identificatie": "gm0335_db75e87b3c304fd297c85e4f2da49b62__chp_4__subchp_4.2__subsec_4.2.1",
+                    "expressie": "chp_4__subchp_4.2__subsec_4.2.1",
+                    "type": "PARAGRAAF",
+                    "volgordeNummer": 0,
+                    "gereserveerd": false,
+                    "vervallen": false,
+                    "label": "Paragraaf",
+                    "nummer": "4.2.1",
+                    "opschrift": "<div class=\"od-Opschrift\">Algemeen</div>",
+                    "children": [
+                      {
+                        "identificatie": "gm0335_d16fc3231e27416ab3d8a2dd1fbe6d4b__chp_4__subchp_4.2__subsec_4.2.1__art_4.1",
+                        "expressie": "chp_4__subchp_4.2__subsec_4.2.1__art_4.7",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 0,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Deze afdeling is van toepassing op de volgende activiteiten met gebruiksruimte:</div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">a.</div><div class=\"od-Al\">agrarische activiteiten;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">b.</div><div class=\"od-Al\">bedrijfsactiviteiten;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">c.</div><div class=\"od-Al\">culturele activiteiten;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">d.</div><div class=\"od-Al\">detailhandelsactiviteiten;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">e.</div><div class=\"od-Al\">dienstverleningsactiviteiten;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">f.</div><div class=\"od-Al\">horeca-activiteiten;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">g.</div><div class=\"od-Al\">industriële activiteiten;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">h.</div><div class=\"od-Al\">kantooractiviteiten;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">i.</div><div class=\"od-Al\">maatschappelijke activiteiten;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">j.</div><div class=\"od-Al\">recreatie-activiteiten;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">k.</div><div class=\"od-Al\">sportactiviteiten; en</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">l.</div><div class=\"od-Al\">wonen.</div></div></div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "4.7",
+                        "opschrift": "<div class=\"od-Opschrift\">Toepassingsbereik</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.a37207ab26d549a6bc87a5523ae1c977?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ],
+                        "activiteiten": [
+                          {
+                            "identificatie": "nl.imow-gm0335.activiteit.4ab5fc8e9f8e4433afaac38d12dd6ced",
+                            "naam": "gebiedsgericht geregelde activiteit met gebruiksruimte"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "identificatie": "gm0335_a8ab9e833bcd402c9a4885c5ac9f8e23__chp_4__subchp_4.2__subsec_4.2.2",
+                    "expressie": "chp_4__subchp_4.2__subsec_4.2.2",
+                    "type": "PARAGRAAF",
+                    "volgordeNummer": 1,
+                    "gereserveerd": false,
+                    "vervallen": false,
+                    "label": "Paragraaf",
+                    "nummer": "4.2.2",
+                    "opschrift": "<div class=\"od-Opschrift\">Woongebied [globale variant]</div>",
+                    "children": [
+                      {
+                        "identificatie": "gm0335_16c5572288094685b1dc4f1bc6e83a13__chp_4__subchp_4.2__subsec_4.2.2__art_4.2",
+                        "expressie": "chp_4__subchp_4.2__subsec_4.2.2__art_4.8",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 0,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Er is een gebiedstype woongebied.</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "4.8",
+                        "opschrift": "<div class=\"od-Opschrift\">Aanwijzing</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.89f67525304c4941854c71c60f28cb64?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.gebied.7b8572c97cf043bc8c029a58513ec7ff"
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_64ab277774d94336bee34b9f3b412026__chp_4__subchp_4.2__subsec_4.2.2__art_4.3",
+                        "expressie": "chp_4__subchp_4.2__subsec_4.2.2__art_4.9",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 1,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Binnen het <span data-verwijst-naar-documentcomponent=\"gm0335_09033cd1f31a438a9ad4391040975053__ref_1\">woongebied Hofland-Oost</span> gelden de volgende doelen als bedoeld in <span data-verwijst-naar-documentcomponent=\"chp_2__subchp_2.1__art_2.1\" data-scope=\"\">artikel 2.1</span>:</div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">a.</div><div class=\"od-Al\">PM</div></div></div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "4.9",
+                        "opschrift": "<div class=\"od-Opschrift\">Doelen</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.6ad575d5296c4a0f827c8df27a13642a?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.gebied.7b8572c97cf043bc8c029a58513ec7ff"
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_a5b2e2a0b3e141f4a3a2f6e3466db3fe__chp_4__subchp_4.2__subsec_4.2.2__art_4.4",
+                        "expressie": "chp_4__subchp_4.2__subsec_4.2.2__art_4.10",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 2,
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "4.10",
+                        "opschrift": "<div class=\"od-Opschrift\">Regels voor activiteiten met gebruiksruimte</div>",
+                        "children": [
+                          {
+                            "identificatie": "gm0335_ae3966fe293a427cab6ee75769d71582__chp_4__subchp_4.2__subsec_4.2.2__art_4.4__para_1",
+                            "expressie": "chp_4__subchp_4.2__subsec_4.2.2__art_4.10__para_1",
+                            "type": "LID",
+                            "volgordeNummer": 0,
+                            "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Met het oog op een evenwichtige toedeling van functies aan locaties worden binnen het woongebied, voor zover het gaat om activiteiten met gebruiksruimte als bedoeld in <span data-verwijst-naar-documentcomponent=\"chp_4__subchp_4.2__subsec_4.2.1__art_4.7\" data-scope=\"\">artikel 4.7</span>, alleen de volgende activiteiten verricht:</div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">a.</div><div class=\"od-Al\">bedrijfsactiviteiten;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">b.</div><div class=\"od-Al\">maatschappelijke activiteiten;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">c.</div><div class=\"od-Al\">wonen;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">d.</div><div class=\"od-Al\">PM</div></div></div></div>",
+                            "gereserveerd": false,
+                            "vervallen": false,
+                            "nummer": "1",
+                            "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.a724e2888ea043578a60add1d9748a34?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                            "locaties": [
+                              "nl.imow-gm0335.gebied.7b8572c97cf043bc8c029a58513ec7ff"
+                            ],
+                            "activiteiten": [
+                              {
+                                "identificatie": "nl.imow-gm0335.activiteit.d7d89f85b1dc4feca3fa5e9f24ac30c8",
+                                "naam": "bedrijfsactiviteit verrichten"
+                              },
+                              {
+                                "identificatie": "nl.imow-gm0335.activiteit.c3841fe98a8c47d2952911f5aef252c9",
+                                "naam": "maatschappelijke activiteit verrichten"
+                              }
+                            ]
+                          },
+                          {
+                            "identificatie": "gm0335_7f9f22346db74ffd8ffea00a2217c15f__chp_4__subchp_4.2__subsec_4.2.2__art_4.4__para_5",
+                            "expressie": "chp_4__subchp_4.2__subsec_4.2.2__art_4.10__para_2",
+                            "type": "LID",
+                            "volgordeNummer": 1,
+                            "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Met het oog op een evenwichtige toedeling van functies aan locaties worden binnen een bedrijventerrein, voor zover het gaat om bedrijfsactiviteiten als bedoeld in het eerste lid, onder a, de volgende activiteiten niet verricht:</div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">a.</div><div class=\"od-Al\">activiteiten die in aanzienlijke mate geluid produceren als bedoeld in artikel 5.78b van het Besluit kwaliteit leefomgeving;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">b.</div><div class=\"od-Al\">activiteiten met externe veiligheidsrisico's; en</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">c.</div><div class=\"od-Al\">het opslaan en verkopen van vuurwerk, met uitzondering van het periodiek verkopen van consumentenvuurwerk.</div></div></div></div>",
+                            "gereserveerd": false,
+                            "vervallen": false,
+                            "nummer": "2",
+                            "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.6e5099e6fc4441b5b7e6dc5bae5c79b2?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                            "locaties": [
+                              "nl.imow-gm0335.gebied.7b8572c97cf043bc8c029a58513ec7ff"
+                            ]
+                          },
+                          {
+                            "identificatie": "gm0335_a34692e0f12a471ba9857ce1de65118b__chp_4__subchp_4.2__subsec_4.2.2__art_4.4__para_4",
+                            "expressie": "chp_4__subchp_4.2__subsec_4.2.2__art_4.10__para_3",
+                            "type": "LID",
+                            "volgordeNummer": 2,
+                            "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Bij bedrijfsactiviteiten wordt voldaan aan:</div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">a.</div><div class=\"od-Al\"><span data-verwijst-naar-documentcomponent=\"chp_5__subchp_5.3__subsec_5.3.2\" data-scope=\"\">paragraaf 5.3.2</span> Bedrijfsactiviteit verrichten - categorie I;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">b.</div><div class=\"od-Al\">PM</div></div></div></div>",
+                            "gereserveerd": false,
+                            "vervallen": false,
+                            "nummer": "3",
+                            "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.450ce2ad1b054d618170eaf4280f7f1c?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                            "locaties": [
+                              "nl.imow-gm0335.gebied.7b8572c97cf043bc8c029a58513ec7ff"
+                            ]
+                          },
+                          {
+                            "identificatie": "gm0335_d2340ed085b74637be1043879f2c8c5d__chp_4__subchp_4.2__subsec_4.2.2__art_4.4__para_2",
+                            "expressie": "chp_4__subchp_4.2__subsec_4.2.2__art_4.10__para_4",
+                            "type": "LID",
+                            "volgordeNummer": 3,
+                            "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Bij maatschappelijke activiteiten wordt voldaan aan:</div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">a.</div><div class=\"od-Al\"><span data-verwijst-naar-documentcomponent=\"chp_5__subchp_5.3__subsec_5.3.4\" data-scope=\"\">paragraaf 5.3.4</span> Maatschappelijke activiteit verrichten - categorie I;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">b.</div><div class=\"od-Al\">PM</div></div></div></div>",
+                            "gereserveerd": false,
+                            "vervallen": false,
+                            "nummer": "4",
+                            "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.52a0e076a9db4375a4be4b501d7138f4?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                            "locaties": [
+                              "nl.imow-gm0335.gebied.7b8572c97cf043bc8c029a58513ec7ff"
+                            ]
+                          },
+                          {
+                            "identificatie": "gm0335_8b4888b88d0541e3ba84734c0b3fc060__chp_4__subchp_4.2__subsec_4.2.2__art_4.4__para_3",
+                            "expressie": "chp_4__subchp_4.2__subsec_4.2.2__art_4.10__para_5",
+                            "type": "LID",
+                            "volgordeNummer": 4,
+                            "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Bij wonen wordt voldaan aan:</div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">a.</div><div class=\"od-Al\">PM</div></div></div></div>",
+                            "gereserveerd": false,
+                            "vervallen": false,
+                            "nummer": "5",
+                            "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.1d6a45527cc149af88d0e0373fa68921?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                            "locaties": [
+                              "nl.imow-gm0335.gebied.7b8572c97cf043bc8c029a58513ec7ff"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "identificatie": "gm0335_b5f01c69e9b746ec91a016f3a629ef1f__chp_4__subchp_4.2__subsec_4.2.3",
+                    "expressie": "chp_4__subchp_4.2__subsec_4.2.3",
+                    "type": "PARAGRAAF",
+                    "volgordeNummer": 2,
+                    "gereserveerd": false,
+                    "vervallen": false,
+                    "label": "Paragraaf",
+                    "nummer": "4.2.3",
+                    "opschrift": "<div class=\"od-Opschrift\">Woongebied [gedetailleerde variant]</div>",
+                    "children": [
+                      {
+                        "identificatie": "gm0335_e128ac2fff4945a6ae2de3af4a3f6228__chp_4__subchp_4.2__subsec_4.2.3__art_4.5",
+                        "expressie": "chp_4__subchp_4.2__subsec_4.2.3__art_4.11",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 0,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Er is een gebiedstype woongebied.</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "4.11",
+                        "opschrift": "<div class=\"od-Opschrift\">Aanwijzing</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.b21e82c101c643b6887efc12f5fe1314?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.gebied.fc608901937244e1888dda5e00d0649c"
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_0cd4831f21e74872b487476531a38034__chp_4__subchp_4.2__subsec_4.2.3__art_4.6",
+                        "expressie": "chp_4__subchp_4.2__subsec_4.2.3__art_4.12",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 1,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Binnen het <span data-verwijst-naar-documentcomponent=\"gm0335_ec8c437d240543d2ae8f00c4d78e3363__ref_1\">woongebied Montfoort</span> gelden de volgende doelen als bedoeld in <span data-verwijst-naar-documentcomponent=\"chp_2__subchp_2.1__art_2.1\" data-scope=\"\">artikel 2.1</span>:</div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">a.</div><div class=\"od-Al\">PM</div></div></div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "4.12",
+                        "opschrift": "<div class=\"od-Opschrift\">Doelen</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.4c7cc311dbf74761a6794d1a969a70c2?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.gebied.fc608901937244e1888dda5e00d0649c"
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_c8a4aa0390754eefa173428f89eb8de9__art_4.4",
+                        "expressie": "chp_4__subchp_4.2__subsec_4.2.3__art_4.13",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 2,
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "4.13",
+                        "opschrift": "<div class=\"od-Opschrift\">Regels voor activiteiten met gebruiksruimte</div>",
+                        "children": [
+                          {
+                            "identificatie": "gm0335_998bb16beb594b16bafab9a33d2ab42e__para_1",
+                            "expressie": "chp_4__subchp_4.2__subsec_4.2.3__art_4.13__para_1",
+                            "type": "LID",
+                            "volgordeNummer": 0,
+                            "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Met het oog op een evenwichtige toedeling van functies aan locaties worden binnen het woongebied, voor zover het gaat om activiteiten met gebruiksruimte als bedoeld in <span data-verwijst-naar-documentcomponent=\"chp_4__subchp_4.2__subsec_4.2.1__art_4.7\" data-scope=\"\">artikel 4.7</span>, alleen de volgende activiteiten verricht:</div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">a.</div><div class=\"od-Al\">bedrijfsactiviteiten:</div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">1.</div><div class=\"od-Al\">uitsluitend binnen de locatie '<span data-verwijst-naar-documentcomponent=\"gm0335_1d39ce948ffa4a679067db4131aeda21__ref_1\">bedrijfsactiviteiten</span>';</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">2.</div><div class=\"od-Al\">binnen de aanduiding 'bouwbedrijf', uitsluitend voor zover het gaat om een rietdekkers-, timmer-, montage-, bouw-, klus-, renovatie- en/of aannemingsbedrijf;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">3.</div><div class=\"od-Al\">binnen de aanduiding 'garagebedrijf', uitsluitend voor zover het gaat om een garagebedrijf, motorenreparatiebedrijf en/of botenreparatiebedrijf;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">4.</div><div class=\"od-Al\">binnen de aanduiding '<span data-verwijst-naar-documentcomponent=\"gm0335_118b9700dd3640e6a24e621eba036259__ref_1\">kaarsen- en glazendrukkerij</span>', uitsluitend voor zover het gaat om een kaarsen- en glazendrukkerij;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">5.</div><div class=\"od-Al\">binnen de aanduiding 'mechanisatiebedrijf', uitsluitend voor zover het gaat om een mechanisatie-, constructie- en installatiebedrijf, inclusief ondergeschikte detailhandel;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">6.</div><div class=\"od-Al\">binnen de aanduiding 'installatiebedrijf', uitsluitend voor zover het gaat om een installatiebedrijf;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">7.</div><div class=\"od-Al\">binnen de aanduiding 'smederij', uitsluitend voor zover het gaat om een smederij;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">8.</div><div class=\"od-Al\">binnen de aanduiding 'loonbedrijf', uitsluitend voor zover het gaat om een kranenverhuur- en loonbedrijf, ter plaatse van de aanduiding;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">9.</div><div class=\"od-Al\">binnen de aanduiding 'schildersbedrijf', uitsluitend voor zover het gaat om een schildersbedrijf;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">10.</div><div class=\"od-Al\">binnen de aanduiding 'hoveniersbedrijf', uitsluitend voor zover het gaat om een hoveniersbedrijf;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">11.</div><div class=\"od-Al\">binnen de aanduiding 'verkooppunt motorbrandstoffen zonder lpg', uitsluitend voor zover het gaat om een verkooppunt van motorbrandstoffen, met uitzondering van LPG;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">12.</div><div class=\"od-Al\">binnen de aanduiding 'kozijnenfabriek', uitsluitend voor zover het gaat om een kozijnen-, deuren- en dakkapellenfabriek, inclusief showroom en kantoor;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">13.</div><div class=\"od-Al\">binnen de aanduiding 'waterschap', uitsluitend voor zover het gaat om het waterschap;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">14.</div><div class=\"od-Al\">binnen de aanduiding 'stalling', uitsluitend voor zover het gaat om een stalling;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">15.</div><div class=\"od-Al\">binnen de aanduiding 'consumentenvuurwerk', uitsluitend voor zover het gaat om de verkoop van consumentenvuurwerk;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">16.</div><div class=\"od-Al\">binnen de aanduiding 'gronddepot', uitsluitend voor zover het gaat om een gronddepot;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">17.</div><div class=\"od-Al\">binnen de aanduiding 'opslag beregeningsbuizen', uitsluitend voor zover het gaat om het opslaan van beregeningsbuizen;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">18.</div><div class=\"od-Al\">binnen de aanduiding 'caravanstalling', uitsluitend voor zover het gaat om het stallen van caravans;</div></div></div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">b.</div><div class=\"od-Al\">maatschappelijke activiteiten:</div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">1.</div><div class=\"od-Al\">uitsluitend binnen de locatie 'maatschappelijke activiteiten';</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">2.</div><div class=\"od-Al\">binnen de aanduiding 'brandweerkazerne', uitsluitend voor zover het gaat om een brandweerkazerne;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">3.</div><div class=\"od-Al\">binnen de aanduiding 'begraafplaats', uitsluitend een begraafplaats, inclusief de bijbehorende gebouwen;</div></div></div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">c.</div><div class=\"od-Al\">wonen, uitsluitend binnen 'locaties voor wonen';</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">d.</div><div class=\"od-Al\">PM</div></div></div></div>",
+                            "gereserveerd": false,
+                            "vervallen": false,
+                            "nummer": "1",
+                            "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.28f2e603f5c144bd8ad9ec1ccef4b926?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                            "locaties": [
+                              "nl.imow-gm0335.gebied.92068b8da8e34a328d99d4d9f15ba478",
+                              "nl.imow-gm0335.gebied.fc608901937244e1888dda5e00d0649c"
+                            ],
+                            "activiteiten": [
+                              {
+                                "identificatie": "nl.imow-gm0335.activiteit.d7d89f85b1dc4feca3fa5e9f24ac30c8",
+                                "naam": "bedrijfsactiviteit verrichten"
+                              }
+                            ]
+                          },
+                          {
+                            "identificatie": "gm0335_2b5c218fc1a5463a8e6cb488acc6cf8f__art_4.4__para_5",
+                            "expressie": "chp_4__subchp_4.2__subsec_4.2.3__art_4.13__para_2",
+                            "type": "LID",
+                            "volgordeNummer": 1,
+                            "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Met het oog op een evenwichtige toedeling van functies aan locaties worden binnen een bedrijventerrein, voor zover het gaat om bedrijfsactiviteiten als bedoeld in het eerste lid, onder a, de volgende activiteiten niet verricht:</div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">a.</div><div class=\"od-Al\">activiteiten die in aanzienlijke mate geluid produceren als bedoeld in artikel 5.78b van het Besluit kwaliteit leefomgeving;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">b.</div><div class=\"od-Al\">activiteiten met externe veiligheidsrisico's; en</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">c.</div><div class=\"od-Al\">het opslaan en verkopen van vuurwerk, met uitzondering van het periodiek verkopen van consumentenvuurwerk.</div></div></div></div>",
+                            "gereserveerd": false,
+                            "vervallen": false,
+                            "nummer": "2",
+                            "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.d4cee090a2ac48f99eeec48a326eff37?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                            "locaties": [
+                              "nl.imow-gm0335.gebied.fc608901937244e1888dda5e00d0649c"
+                            ]
+                          },
+                          {
+                            "identificatie": "gm0335_2e5fff05ba614425832b4300fe3c2288__art_4.4__para_4",
+                            "expressie": "chp_4__subchp_4.2__subsec_4.2.3__art_4.13__para_3",
+                            "type": "LID",
+                            "volgordeNummer": 2,
+                            "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Bij bedrijfsactiviteiten wordt voldaan aan:</div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">a.</div><div class=\"od-Al\"><span data-verwijst-naar-documentcomponent=\"chp_5__subchp_5.3__subsec_5.3.3\" data-scope=\"\">paragraaf 5.3.3</span> Bedrijfsactiviteit verrichten - categorie II;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">b.</div><div class=\"od-Al\">PM</div></div></div></div>",
+                            "gereserveerd": false,
+                            "vervallen": false,
+                            "nummer": "3",
+                            "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.fdf51ba7eb464bb7bef3e840072e790a?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                            "locaties": [
+                              "nl.imow-gm0335.gebied.fc608901937244e1888dda5e00d0649c"
+                            ]
+                          },
+                          {
+                            "identificatie": "gm0335_cfebee71c09d4a629c7036044c7baa56__para_2",
+                            "expressie": "chp_4__subchp_4.2__subsec_4.2.3__art_4.13__para_4",
+                            "type": "LID",
+                            "volgordeNummer": 3,
+                            "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Bij maatschappelijke activiteiten wordt voldaan aan:</div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">a.</div><div class=\"od-Al\"><span data-verwijst-naar-documentcomponent=\"chp_5__subchp_5.3__subsec_5.3.3\" data-scope=\"\">paragraaf 5.3.3</span> Maatschappelijke activiteit verrichten - categorie Ii;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">b.</div><div class=\"od-Al\">PM</div></div></div></div>",
+                            "gereserveerd": false,
+                            "vervallen": false,
+                            "nummer": "4",
+                            "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.f3e9ee28b46a486a9923cd4bc9ef5afd?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                            "locaties": [
+                              "nl.imow-gm0335.gebied.fc608901937244e1888dda5e00d0649c"
+                            ]
+                          },
+                          {
+                            "identificatie": "gm0335_11a2156bb07a4d229a7734bf29641896__para_3",
+                            "expressie": "chp_4__subchp_4.2__subsec_4.2.3__art_4.13__para_5",
+                            "type": "LID",
+                            "volgordeNummer": 4,
+                            "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Bij wonen wordt voldaan aan:</div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">a.</div><div class=\"od-Al\">PM</div></div></div></div>",
+                            "gereserveerd": false,
+                            "vervallen": false,
+                            "nummer": "5",
+                            "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.01e0392d87a0449c8f617deda9d54c86?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                            "locaties": [
+                              "nl.imow-gm0335.gebied.fc608901937244e1888dda5e00d0649c"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "identificatie": "gm0335_401a5ecc4500488ba98ba91822b2c248__chp_4__subchp_4.2__subsec_4.2.4",
+                    "expressie": "chp_4__subchp_4.2__subsec_4.2.4",
+                    "type": "PARAGRAAF",
+                    "volgordeNummer": 3,
+                    "gereserveerd": false,
+                    "vervallen": false,
+                    "label": "Paragraaf",
+                    "nummer": "4.2.4",
+                    "opschrift": "<div class=\"od-Opschrift\">Centrumgebied</div>",
+                    "children": [
+                      {
+                        "identificatie": "gm0335_3f5e983bbf114ccea8a447efb8e37ce3__chp_4__subchp_4.2__subsec_4.2.4__art_4.16",
+                        "expressie": "chp_4__subchp_4.2__subsec_4.2.4__art_4.14",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 0,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Er is een gebiedstype <span data-verwijst-naar-documentcomponent=\"gm0335_ec88611000ec4463aec8369417f80d7e__ref_1\">centrumgebied</span>.</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "4.14",
+                        "opschrift": "<div class=\"od-Opschrift\">Aanwijzing</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.120bfa789d5f4ea7a767bc5e6963e64a?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.gebied.aa4e31e27a504e87b5e8f7821b5830f4"
+                        ],
+                        "gebiedsaanwijzingen": [
+                          {
+                            "identificatie": "nl.imow-gm0335.gebiedsaanwijzing.25c4f9ef0a164f16a04e4bb35e245fa4",
+                            "naam": "centrumgebied"
+                          }
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_9a60b875f00642089e64557ccfa75d2d__chp_4__subchp_4.2__subsec_4.2.4__art_4.17",
+                        "expressie": "chp_4__subchp_4.2__subsec_4.2.4__art_4.15",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 1,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Binnen het centrumgebied gelden de volgende doelen als bedoeld in <span data-verwijst-naar-documentcomponent=\"chp_2__subchp_2.1__art_2.1\" data-scope=\"\">artikel 2.1</span>:</div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">a.</div><div class=\"od-Al\">PM</div></div></div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "4.15",
+                        "opschrift": "<div class=\"od-Opschrift\">Doelen</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.ae46aac7b45e409eaec57a9ab3be7544?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.gebied.aa4e31e27a504e87b5e8f7821b5830f4"
+                        ],
+                        "gebiedsaanwijzingen": [
+                          {
+                            "identificatie": "nl.imow-gm0335.gebiedsaanwijzing.25c4f9ef0a164f16a04e4bb35e245fa4",
+                            "naam": "centrumgebied"
+                          }
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_707335b18c4d44048537825cda2719d6__chp_4__subchp_4.2__subsec_4.2.4__art_4.18",
+                        "expressie": "chp_4__subchp_4.2__subsec_4.2.4__art_4.16",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 2,
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "4.16",
+                        "opschrift": "<div class=\"od-Opschrift\">Regels voor activiteiten met gebruiksruimte</div>",
+                        "children": [
+                          {
+                            "identificatie": "gm0335_7eb26a7428d640fb8a3a06375ee81695__chp_4__subchp_4.2__subsec_4.2.4__art_4.18__para_1",
+                            "expressie": "chp_4__subchp_4.2__subsec_4.2.4__art_4.16__para_1",
+                            "type": "LID",
+                            "volgordeNummer": 0,
+                            "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Met het oog op een evenwichtige toedeling van functies aan locaties worden binnen het woongebied, voor zover het gaat om activiteiten met gebruiksruimte als bedoeld in <span data-verwijst-naar-documentcomponent=\"chp_4__subchp_4.2__subsec_4.2.1__art_4.7\" data-scope=\"\">artikel 4.7</span>, alleen de volgende activiteiten verricht:</div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">a.</div><div class=\"od-Al\">culturele activiteiten;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">b.</div><div class=\"od-Al\">detailhandelsactiviteiten;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">c.</div><div class=\"od-Al\">dienstverleningsactiviteiten;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">d.</div><div class=\"od-Al\">horeca-activiteiten;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">e.</div><div class=\"od-Al\">maatschappelijke activiteiten;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">f.</div><div class=\"od-Al\">wonen;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">g.</div><div class=\"od-Al\">PM</div></div></div></div>",
+                            "gereserveerd": false,
+                            "vervallen": false,
+                            "nummer": "1",
+                            "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.cbffcb6ae8c64906ab4c984b89b12e8b?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                            "locaties": [
+                              "nl.imow-gm0335.gebied.aa4e31e27a504e87b5e8f7821b5830f4"
+                            ],
+                            "activiteiten": [
+                              {
+                                "identificatie": "nl.imow-gm0335.activiteit.c3841fe98a8c47d2952911f5aef252c9",
+                                "naam": "maatschappelijke activiteit verrichten"
+                              }
+                            ],
+                            "gebiedsaanwijzingen": [
+                              {
+                                "identificatie": "nl.imow-gm0335.gebiedsaanwijzing.25c4f9ef0a164f16a04e4bb35e245fa4",
+                                "naam": "centrumgebied"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "identificatie": "gm0335_1__chp_5",
+            "expressie": "chp_5",
+            "type": "HOOFDSTUK",
+            "volgordeNummer": 4,
+            "gereserveerd": false,
+            "vervallen": false,
+            "label": "Hoofdstuk",
+            "nummer": "5",
+            "opschrift": "<div class=\"od-Opschrift\">Activiteiten</div>",
+            "children": [
+              {
+                "identificatie": "gm0335_1__chp_5__subchp_5.1",
+                "expressie": "chp_5__subchp_5.1",
+                "type": "AFDELING",
+                "volgordeNummer": 0,
+                "gereserveerd": false,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "5.1",
+                "opschrift": "<div class=\"od-Opschrift\">Inleidende bepalingen</div>",
+                "children": [
+                  {
+                    "identificatie": "gm0335_f23d828a6450488a90e183d9bdd3755c__chp_5__subchp_5.1__art_5.5",
+                    "expressie": "chp_5__subchp_5.1__art_5.1",
+                    "type": "ARTIKEL",
+                    "volgordeNummer": 0,
+                    "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Met uitzondering van <span data-verwijst-naar-documentcomponent=\"chp_5__subchp_5.1\" data-scope=\"\">afdeling 5.1</span> en paragraaf 5.3.1 is een paragraaf in dit hoofdstuk alleen van toepassing voor zover dat in hoofdstuk 4 is bepaald.</div></div>",
+                    "gereserveerd": false,
+                    "vervallen": false,
+                    "label": "Artikel",
+                    "nummer": "5.1",
+                    "opschrift": "<div class=\"od-Opschrift\">Toepassingsbereik</div>",
+                    "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.6bd4a5726e45401c98617854b6177127?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                    "locaties": [
+                      "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                    ]
+                  },
+                  {
+                    "identificatie": "gm0335_1__chp_5__subchp_5.1__subsec_5.1.1__art_5.1",
+                    "expressie": "chp_5__subchp_5.1__art_5.2",
+                    "type": "ARTIKEL",
+                    "volgordeNummer": 1,
+                    "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Aan de hoofdstukken 4 en 5 wordt voldaan door degene die de activiteit verricht, tenzij anders bepaald. Diegene draagt zorg voor de naleving van de regels over de activiteit.</div></div>",
+                    "gereserveerd": false,
+                    "vervallen": false,
+                    "label": "Artikel",
+                    "nummer": "5.2",
+                    "opschrift": "<div class=\"od-Opschrift\">Normadressaat</div>",
+                    "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.9ecf2bb1f8b048df8dc5432a28624d27?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                    "locaties": [
+                      "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                    ]
+                  },
+                  {
+                    "identificatie": "gm0335_1__chp_5__subchp_5.1__subsec_5.1.1__art_5.2",
+                    "expressie": "chp_5__subchp_5.1__art_5.3",
+                    "type": "ARTIKEL",
+                    "volgordeNummer": 2,
+                    "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">De stamomtrek van een boom wordt gemeten op een hoogte van 130 cm vanaf het maaiveld. Bij meerstammigheid wordt de stamomtrek van de dikste stam gemeten.</div></div>",
+                    "gereserveerd": false,
+                    "vervallen": false,
+                    "label": "Artikel",
+                    "nummer": "5.3",
+                    "opschrift": "<div class=\"od-Opschrift\">Wijze van meten</div>",
+                    "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.2d7264eab16348fbadd16bc5fad58c34?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                    "locaties": [
+                      "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                    ]
+                  },
+                  {
+                    "identificatie": "gm0335_1__chp_5__subchp_5.1__subsec_5.1.1__art_5.4",
+                    "expressie": "chp_5__subchp_5.1__art_5.4",
+                    "type": "ARTIKEL",
+                    "volgordeNummer": 3,
+                    "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Degene die een activiteit verricht als bedoeld in dit hoofdstuk en weet of redelijkerwijs kan vermoeden dat die activiteit nadelige gevolgen kan hebben voor de doelen, met het oog waarop de regels in de betreffende afdeling zijn gesteld, is verplicht:</div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">a.</div><div class=\"od-Al\">alle maatregelen te nemen die redelijkerwijs van diegene kunnen worden gevraagd om die gevolgen te voorkomen;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">b.</div><div class=\"od-Al\">voor zover deze niet kunnen worden voorkomen: die gevolgen zoveel mogelijk te beperken of ongedaan te maken; en</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">c.</div><div class=\"od-Al\">als die gevolgen onvoldoende kunnen worden beperkt: die activiteit achterwege te laten voor zover dat redelijkerwijs van diegene kan worden gevraagd.</div></div></div></div>",
+                    "gereserveerd": false,
+                    "vervallen": false,
+                    "label": "Artikel",
+                    "nummer": "5.4",
+                    "opschrift": "<div class=\"od-Opschrift\">Specifieke zorgplicht</div>",
+                    "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.f24895bf8f05441d888befb2ebcc3cc6?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                    "locaties": [
+                      "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                    ]
+                  }
+                ]
+              },
+              {
+                "identificatie": "gm0335_f4dc45e5550f4f36a8678f876be5ad0f__chp_5__subchp_5.2",
+                "expressie": "chp_5__subchp_5.2",
+                "type": "AFDELING",
+                "volgordeNummer": 1,
+                "gereserveerd": false,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "5.2",
+                "opschrift": "<div class=\"od-Opschrift\">Thematische activiteiten</div>",
+                "children": [
+                  {
+                    "identificatie": "gm0335_0597649f4af740d49f0a4547cf10598d__chp_5__subchp_5.2__subsec_5.2.3",
+                    "expressie": "chp_5__subchp_5.2__subsec_5.2.1",
+                    "type": "PARAGRAAF",
+                    "volgordeNummer": 0,
+                    "gereserveerd": true,
+                    "vervallen": false,
+                    "label": "Paragraaf",
+                    "nummer": "5.2.1",
+                    "opschrift": "<div class=\"od-Opschrift\">Bouwen - algemeen</div>"
+                  },
+                  {
+                    "identificatie": "gm0335_c2bceaed7811422dbb7f6041eeeb7961__chp_5__subchp_5.2__subsec_5.2.4",
+                    "expressie": "chp_5__subchp_5.2__subsec_5.2.2",
+                    "type": "PARAGRAAF",
+                    "volgordeNummer": 1,
+                    "gereserveerd": false,
+                    "vervallen": false,
+                    "label": "Paragraaf",
+                    "nummer": "5.2.2",
+                    "opschrift": "<div class=\"od-Opschrift\">Hoofdgebouw bouwen</div>",
+                    "children": [
+                      {
+                        "identificatie": "gm0335_1d046de4cd1c4d83af2c5b9f89e964b4__chp_5__subchp_5.2__subsec_5.2.4__art_5.33",
+                        "expressie": "chp_5__subchp_5.2__subsec_5.2.2__art_5.5",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 0,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Deze paragraaf gaat over het bouwen van hoofdgebouwen.</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.5",
+                        "opschrift": "<div class=\"od-Opschrift\">Toepassingsbereik</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.65e536aee48c4fd29a86ae34a0f13170?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_65ec58df7043460dbe8a244e8d31d6f5__chp_5__subchp_5.2__subsec_5.2.4__art_5.34",
+                        "expressie": "chp_5__subchp_5.2__subsec_5.2.2__art_5.6",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 1,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">PM</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.6",
+                        "opschrift": "<div class=\"od-Opschrift\">Oogmerken</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.a83c157a8d8c415ba4b48bb66363d023?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_d01264458250457b88dda9e00c1a2867__chp_5__subchp_5.2__subsec_5.2.4__art_5.35",
+                        "expressie": "chp_5__subchp_5.2__subsec_5.2.2__art_5.7",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 2,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Het is verboden zonder omgevingsvergunning een hoofdgebouw te bouwen.</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.7",
+                        "opschrift": "<div class=\"od-Opschrift\">Aanwijzing vergunningplichtige gevallen</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.cb7a603673ff4eda9bbc2136eaab63ca?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_59c9b11283c243e4b31cf15278876c4c__chp_5__subchp_5.2__subsec_5.2.4__art_5.36",
+                        "expressie": "chp_5__subchp_5.2__subsec_5.2.2__art_5.8",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 3,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">PM</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.8",
+                        "opschrift": "<div class=\"od-Opschrift\">Specifieke aanvraagvereisten omgevingsvergunning</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.2f444c3c1ec34d1a9b3e4f2de188e73b?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_46267cf4bc974e538289e3ae9bf3b812__chp_5__subchp_5.2__subsec_5.2.4__art_5.37",
+                        "expressie": "chp_5__subchp_5.2__subsec_5.2.2__art_5.9",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 4,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">PM</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.9",
+                        "opschrift": "<div class=\"od-Opschrift\">Beoordelingsregels omgevingsvergunning</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.0b9e6b5682144d87b719a17f63faf434?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "identificatie": "gm0335_be3aa096026547338b05e01270178439__chp_5__subchp_5.2__subsec_5.2.1",
+                    "expressie": "chp_5__subchp_5.2__subsec_5.2.3",
+                    "type": "PARAGRAAF",
+                    "volgordeNummer": 2,
+                    "gereserveerd": false,
+                    "vervallen": false,
+                    "label": "Paragraaf",
+                    "nummer": "5.2.3",
+                    "opschrift": "<div class=\"od-Opschrift\">Activiteit verrichten in openbaar toegankelijk gebied</div>",
+                    "children": [
+                      {
+                        "identificatie": "gm0335_00f22483c97f43e68e2f8eb4f7cd4887__chp_5__subchp_5.2__subsec_5.2.1__art_5.26",
+                        "expressie": "chp_5__subchp_5.2__subsec_5.2.3__art_5.10",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 0,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Deze paragraaf gaat over het verrichten van de volgende activiteiten in <span data-verwijst-naar-documentcomponent=\"cmp_II__content_o_1__list_o_1__item_o_1\" data-scope=\"\">openbaar toegankelijk gebied</span>:</div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">a.</div><div class=\"od-Al\">graven;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">b.</div><div class=\"od-Al\">het aanbrengen en verwijderen van diepwortelende beplanting;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">c.</div><div class=\"od-Al\">het aanbrengen van verharding;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">d.</div><div class=\"od-Al\">het indrijven van voorwerpen in de bodem;</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">e.</div><div class=\"od-Al\">het ophogen van de grond; en</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">f.</div><div class=\"od-Al\">het aanleggen, verdiepen, verbreden en dempen van oppervlaktewaterlichaam.</div></div></div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.10",
+                        "opschrift": "<div class=\"od-Opschrift\">Toepassingsbereik</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.f6b03ad00b9d4dfc8acfa9cad115fecd?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.gebied.b605a670d7d04b458d2a18d06cefa33b"
+                        ],
+                        "activiteiten": [
+                          {
+                            "identificatie": "nl.imow-gm0335.activiteit.796953ab32e74091862fc3e908e65ec5",
+                            "naam": "graven"
+                          }
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_f1c1fb13d94d4091a7e15c1fccd8d80b__chp_5__subchp_5.2__subsec_5.2.1__art_5.32",
+                        "expressie": "chp_5__subchp_5.2__subsec_5.2.3__art_5.11",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 1,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">PM</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.11",
+                        "opschrift": "<div class=\"od-Opschrift\">Oogmerken</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.4e3f66d2b61c4e7880617e1269a29572?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.gebied.b605a670d7d04b458d2a18d06cefa33b"
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_30fa2a3553a441af861d23c8bd49b859__chp_5__subchp_5.2__subsec_5.2.1__art_5.29",
+                        "expressie": "chp_5__subchp_5.2__subsec_5.2.3__art_5.12",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 2,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Het is verboden zonder omgevingsvergunning een activiteit als bedoeld in <span data-verwijst-naar-documentcomponent=\"chp_5__subchp_5.2__subsec_5.2.3__art_5.10\" data-scope=\"\">artikel 5.10</span> te verrichten.</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.12",
+                        "opschrift": "<div class=\"od-Opschrift\">Aanwijzing vergunningplichtige gevallen</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.0c4c083764bb48bd975f560c109fbf41?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.gebied.b605a670d7d04b458d2a18d06cefa33b"
+                        ],
+                        "activiteiten": [
+                          {
+                            "identificatie": "nl.imow-gm0335.activiteit.796953ab32e74091862fc3e908e65ec5",
+                            "naam": "graven"
+                          }
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_a03320ca722b42b7b01065efbd9a57d3__chp_5__subchp_5.2__subsec_5.2.1__art_5.30",
+                        "expressie": "chp_5__subchp_5.2__subsec_5.2.3__art_5.13",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 3,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">PM</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.13",
+                        "opschrift": "<div class=\"od-Opschrift\">Specifieke aanvraagvereisten omgevingsvergunning</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.e237bb1d79af46f4a050dcf1f305a5b9?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.gebied.b605a670d7d04b458d2a18d06cefa33b"
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_a17199c836814dd9a52be12a5bde4dd5__chp_5__subchp_5.2__subsec_5.2.1__art_5.31",
+                        "expressie": "chp_5__subchp_5.2__subsec_5.2.3__art_5.14",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 4,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">De omgevingsvergunning wordt alleen verleend als:</div><div class=\"od-Lijst\"><div class=\"od-Li\"><div class=\"od-LiNummer\">a.</div><div class=\"od-Al\">[hier kunnen beleidsdoelen worden opgenomen, zoals die in de visie worden geformuleerd, bijvoorbeeld op het gebied van klimaatadaptatiel];</div></div><div class=\"od-Li\"><div class=\"od-LiNummer\">b.</div><div class=\"od-Al\">PM</div></div></div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.14",
+                        "opschrift": "<div class=\"od-Opschrift\">Beoordelingsregels omgevingsvergunning</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.b2b7cb494b0e4f868709f53f7a57e8a8?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.gebied.b605a670d7d04b458d2a18d06cefa33b"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "identificatie": "gm0335_27b714d7fa1540b8ac68a601434b0ac0__chp_5__subchp_5.3",
+                "expressie": "chp_5__subchp_5.3",
+                "type": "AFDELING",
+                "volgordeNummer": 2,
+                "gereserveerd": false,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "5.3",
+                "opschrift": "<div class=\"od-Opschrift\">Gebiedsgerichte activiteiten met gebruiksruimte</div>",
+                "children": [
+                  {
+                    "identificatie": "gm0335_67d81aa1345c44afb85aca2190a2efa5__chp_5__subchp_5.3__subsec_5.3.1",
+                    "expressie": "chp_5__subchp_5.3__subsec_5.3.1",
+                    "type": "PARAGRAAF",
+                    "volgordeNummer": 0,
+                    "gereserveerd": true,
+                    "vervallen": false,
+                    "label": "Paragraaf",
+                    "nummer": "5.3.1",
+                    "opschrift": "<div class=\"od-Opschrift\">Algemene bepalingen</div>"
+                  },
+                  {
+                    "identificatie": "gm0335_0190adac7faa406db3f192063cbbfd24__chp_5__subchp_5.3__subsec_5.3.6",
+                    "expressie": "chp_5__subchp_5.3__subsec_5.3.2",
+                    "type": "PARAGRAAF",
+                    "volgordeNummer": 1,
+                    "gereserveerd": false,
+                    "vervallen": false,
+                    "label": "Paragraaf",
+                    "nummer": "5.3.2",
+                    "opschrift": "<div class=\"od-Opschrift\">Bedrijfsactiviteit verrichten - categorie I</div>",
+                    "children": [
+                      {
+                        "identificatie": "gm0335_271cefc4cbbe4397a11ddb9b66f2993d__chp_5__subchp_5.3__subsec_5.3.6__art_5.20",
+                        "expressie": "chp_5__subchp_5.3__subsec_5.3.2__art_5.15",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 0,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Deze paragraaf gaat over het verrichten van bedrijfsactiviteiten.</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.15",
+                        "opschrift": "<div class=\"od-Opschrift\">Toepassingsbereik</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.dbb70fee1e27441dbe3b32a5c1bd60fb?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ],
+                        "activiteiten": [
+                          {
+                            "identificatie": "nl.imow-gm0335.activiteit.d7d89f85b1dc4feca3fa5e9f24ac30c8",
+                            "naam": "bedrijfsactiviteit verrichten"
+                          }
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_706a75980dca437aba83ce41f179a7b9__chp_5__subchp_5.3__subsec_5.3.6__art_5.23",
+                        "expressie": "chp_5__subchp_5.3__subsec_5.3.2__art_5.16",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 1,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">PM</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.16",
+                        "opschrift": "<div class=\"od-Opschrift\">Oogmerken</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.fb4b2c6ad1d74222942cc668c5e0abb6?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ],
+                        "activiteiten": [
+                          {
+                            "identificatie": "nl.imow-gm0335.activiteit.d7d89f85b1dc4feca3fa5e9f24ac30c8",
+                            "naam": "bedrijfsactiviteit verrichten"
+                          }
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_4b998e62e0874999846004421ccd7119__chp_5__subchp_5.3__subsec_5.3.6__art_5.22",
+                        "expressie": "chp_5__subchp_5.3__subsec_5.3.2__art_5.17",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 2,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Het is verboden zonder omgevingsvergunning een bedrijfsactiviteit te starten of te wijzigen.</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.17",
+                        "opschrift": "<div class=\"od-Opschrift\">Aanwijzing vergunningplichtige gevallen</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.2902ac2d06e84469a661d9ac2fd81cf7?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ],
+                        "activiteiten": [
+                          {
+                            "identificatie": "nl.imow-gm0335.activiteit.d7d89f85b1dc4feca3fa5e9f24ac30c8",
+                            "naam": "bedrijfsactiviteit verrichten"
+                          }
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_16012932403446c19eb02810dc85c9e7__chp_5__subchp_5.3__subsec_5.3.6__art_5.24",
+                        "expressie": "chp_5__subchp_5.3__subsec_5.3.2__art_5.18",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 3,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">PM</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.18",
+                        "opschrift": "<div class=\"od-Opschrift\">Specifieke aanvraagvereisten omgevingsvergunning</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.dfe3be6aeacf452d87279c074f6ae55d?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ],
+                        "activiteiten": [
+                          {
+                            "identificatie": "nl.imow-gm0335.activiteit.d7d89f85b1dc4feca3fa5e9f24ac30c8",
+                            "naam": "bedrijfsactiviteit verrichten"
+                          }
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_d9e76eb001994338a7a7467233aaabdd__chp_5__subchp_5.3__subsec_5.3.6__art_5.25",
+                        "expressie": "chp_5__subchp_5.3__subsec_5.3.2__art_5.19",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 4,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">PM</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.19",
+                        "opschrift": "<div class=\"od-Opschrift\">Beoordelingsregels omgevingsvergunning</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.3fc041d40d0445b382cb36197cf6915c?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ],
+                        "activiteiten": [
+                          {
+                            "identificatie": "nl.imow-gm0335.activiteit.d7d89f85b1dc4feca3fa5e9f24ac30c8",
+                            "naam": "bedrijfsactiviteit verrichten"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "identificatie": "gm0335_d0cafe209699454883883b308516b7c4__chp_5__subchp_5.3__subsec_5.3.7",
+                    "expressie": "chp_5__subchp_5.3__subsec_5.3.3",
+                    "type": "PARAGRAAF",
+                    "volgordeNummer": 2,
+                    "gereserveerd": false,
+                    "vervallen": false,
+                    "label": "Paragraaf",
+                    "nummer": "5.3.3",
+                    "opschrift": "<div class=\"od-Opschrift\">Bedrijfsactiviteit verrichten - categorie II</div>",
+                    "children": [
+                      {
+                        "identificatie": "gm0335_e75bb6af66da40739498a9d02329ff19__chp_5__subchp_5.3__subsec_5.3.7__art_5.21",
+                        "expressie": "chp_5__subchp_5.3__subsec_5.3.3__art_5.20",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 0,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Deze paragraaf gaat over het verrichten van bedrijfsactiviteiten.</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.20",
+                        "opschrift": "<div class=\"od-Opschrift\">Toepassingsbereik</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.9e803989ec5b4899807ec26de6ca756e?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_8722a5839a094198a97d8b252a0f1d67__chp_5__subchp_5.3__subsec_5.3.7__art_5.26",
+                        "expressie": "chp_5__subchp_5.3__subsec_5.3.3__art_5.21",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 1,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">PM</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.21",
+                        "opschrift": "<div class=\"od-Opschrift\">PM</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.4a5c60baf0a94fa9b06d641dd38f9ae5?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "identificatie": "gm0335_5a5e4ecbd47946b38d5e18d62401f432__chp_5__subchp_5.3__subsec_5.3.2",
+                    "expressie": "chp_5__subchp_5.3__subsec_5.3.4",
+                    "type": "PARAGRAAF",
+                    "volgordeNummer": 3,
+                    "gereserveerd": false,
+                    "vervallen": false,
+                    "label": "Paragraaf",
+                    "nummer": "5.3.4",
+                    "opschrift": "<div class=\"od-Opschrift\">Maatschappelijke activiteit verrichten - categorie I</div>",
+                    "children": [
+                      {
+                        "identificatie": "gm0335_7c5d5b1b645c40d8978374e12fdb6efc__chp_5__subchp_5.3__subsec_5.3.2__art_5.6",
+                        "expressie": "chp_5__subchp_5.3__subsec_5.3.4__art_5.22",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 0,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Deze paragraaf gaat over het verrichten van maatschappelijke activiteiten.</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.22",
+                        "opschrift": "<div class=\"od-Opschrift\">Toepassingsbereik</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.e6112a94de8f4dce9848c750e56ae094?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ],
+                        "activiteiten": [
+                          {
+                            "identificatie": "nl.imow-gm0335.activiteit.c3841fe98a8c47d2952911f5aef252c9",
+                            "naam": "maatschappelijke activiteit verrichten"
+                          }
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_be58a2aa0fdb479cbea0bc3852d7872c__chp_5__subchp_5.3__subsec_5.3.2__art_5.8",
+                        "expressie": "chp_5__subchp_5.3__subsec_5.3.4__art_5.23",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 1,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">PM</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.23",
+                        "opschrift": "<div class=\"od-Opschrift\">Oogmerken</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.6ebbebe703264ff897e6f482daf9a2b5?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ],
+                        "activiteiten": [
+                          {
+                            "identificatie": "nl.imow-gm0335.activiteit.c3841fe98a8c47d2952911f5aef252c9",
+                            "naam": "maatschappelijke activiteit verrichten"
+                          }
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_b97a5c2daf1346d78f54e27d8671fb43__chp_5__subchp_5.3__subsec_5.3.2__art_5.7",
+                        "expressie": "chp_5__subchp_5.3__subsec_5.3.4__art_5.24",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 2,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Het is verboden zonder omgevingsvergunning een maatschappelijke activiteit te starten of te wijzigen.</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.24",
+                        "opschrift": "<div class=\"od-Opschrift\">Aanwijzing vergunningplichtige gevallen</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.f93e2fccb92248efb31d12af8819ce41?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ],
+                        "activiteiten": [
+                          {
+                            "identificatie": "nl.imow-gm0335.activiteit.c3841fe98a8c47d2952911f5aef252c9",
+                            "naam": "maatschappelijke activiteit verrichten"
+                          }
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_28542fb0b7594ef6b341be01c9ae509b__chp_5__subchp_5.3__subsec_5.3.2__art_5.9",
+                        "expressie": "chp_5__subchp_5.3__subsec_5.3.4__art_5.25",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 3,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">PM</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.25",
+                        "opschrift": "<div class=\"od-Opschrift\">Specifieke aanvraagvereisten omgevingsvergunning</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.4c62e6c6a45f4c4ab8e34ac5a6d79a45?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ],
+                        "activiteiten": [
+                          {
+                            "identificatie": "nl.imow-gm0335.activiteit.c3841fe98a8c47d2952911f5aef252c9",
+                            "naam": "maatschappelijke activiteit verrichten"
+                          }
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_e920ae59d7d74d33a6c5321fc87da8f1__chp_5__subchp_5.3__subsec_5.3.2__art_5.10",
+                        "expressie": "chp_5__subchp_5.3__subsec_5.3.4__art_5.26",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 4,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">PM</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.26",
+                        "opschrift": "<div class=\"od-Opschrift\">Beoordelingsregels omgevingsvergunning</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.cda79af7dd6c4db49012a1c22ff2e844?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ],
+                        "activiteiten": [
+                          {
+                            "identificatie": "nl.imow-gm0335.activiteit.c3841fe98a8c47d2952911f5aef252c9",
+                            "naam": "maatschappelijke activiteit verrichten"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "identificatie": "gm0335_1205da6da40a4df8b84683af0119cfa5__chp_5__subchp_5.3__subsec_5.3.3",
+                    "expressie": "chp_5__subchp_5.3__subsec_5.3.5",
+                    "type": "PARAGRAAF",
+                    "volgordeNummer": 4,
+                    "gereserveerd": false,
+                    "vervallen": false,
+                    "label": "Paragraaf",
+                    "nummer": "5.3.5",
+                    "opschrift": "<div class=\"od-Opschrift\">Maatschappelijke activiteit verrichten - categorie II</div>",
+                    "children": [
+                      {
+                        "identificatie": "gm0335_17a9bb66979747139bcc42b78762be95__chp_5__subchp_5.3__subsec_5.3.3__art_5.11",
+                        "expressie": "chp_5__subchp_5.3__subsec_5.3.5__art_5.27",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 0,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Deze paragraaf gaat over het verrichten van maatschappelijke activiteiten.</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.27",
+                        "opschrift": "<div class=\"od-Opschrift\">Toepassingsbereik</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.40116d9796f54cfbaae79e3c9198f1f0?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ]
+                      },
+                      {
+                        "identificatie": "gm0335_5e75fde303be4ba986a68472250e5fc4__chp_5__subchp_5.3__subsec_5.3.3__art_5.12",
+                        "expressie": "chp_5__subchp_5.3__subsec_5.3.5__art_5.28",
+                        "type": "ARTIKEL",
+                        "volgordeNummer": 1,
+                        "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">PM</div></div>",
+                        "gereserveerd": false,
+                        "vervallen": false,
+                        "label": "Artikel",
+                        "nummer": "5.28",
+                        "opschrift": "<div class=\"od-Opschrift\">PM</div>",
+                        "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.c5588c78959c4cb0b73d7d89a0494213?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                        "locaties": [
+                          "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "identificatie": "gm0335_1__chp_6",
+            "expressie": "chp_6",
+            "type": "HOOFDSTUK",
+            "volgordeNummer": 5,
+            "gereserveerd": false,
+            "vervallen": false,
+            "label": "Hoofdstuk",
+            "nummer": "6",
+            "opschrift": "<div class=\"od-Opschrift\">Beheer en onderhoud</div>",
+            "children": [
+              {
+                "identificatie": "gm0335_1__chp_6__subchp_6.1",
+                "expressie": "chp_6__subchp_6.1",
+                "type": "AFDELING",
+                "volgordeNummer": 0,
+                "gereserveerd": true,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "6.1",
+                "opschrift": "<div class=\"od-Opschrift\">Onderhouds- en instandhoudingsverplichtingen</div>"
+              },
+              {
+                "identificatie": "gm0335_1__chp_6__subchp_6.2",
+                "expressie": "chp_6__subchp_6.2",
+                "type": "AFDELING",
+                "volgordeNummer": 1,
+                "gereserveerd": true,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "6.2",
+                "opschrift": "<div class=\"od-Opschrift\">Gedoogplichten</div>"
+              }
+            ]
+          },
+          {
+            "identificatie": "gm0335_1__chp_7",
+            "expressie": "chp_7",
+            "type": "HOOFDSTUK",
+            "volgordeNummer": 6,
+            "gereserveerd": false,
+            "vervallen": false,
+            "label": "Hoofdstuk",
+            "nummer": "7",
+            "opschrift": "<div class=\"od-Opschrift\">Financiële bepalingen</div>",
+            "children": [
+              {
+                "identificatie": "gm0335_1__chp_7__subchp_7.1",
+                "expressie": "chp_7__subchp_7.1",
+                "type": "AFDELING",
+                "volgordeNummer": 0,
+                "gereserveerd": true,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "7.1",
+                "opschrift": "<div class=\"od-Opschrift\">Kostenverhaal</div>"
+              },
+              {
+                "identificatie": "gm0335_1__chp_7__subchp_7.2",
+                "expressie": "chp_7__subchp_7.2",
+                "type": "AFDELING",
+                "volgordeNummer": 1,
+                "gereserveerd": true,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "7.2",
+                "opschrift": "<div class=\"od-Opschrift\">Nadeelcompensatie</div>"
+              }
+            ]
+          },
+          {
+            "identificatie": "gm0335_1__chp_8",
+            "expressie": "chp_8",
+            "type": "HOOFDSTUK",
+            "volgordeNummer": 7,
+            "gereserveerd": false,
+            "vervallen": false,
+            "label": "Hoofdstuk",
+            "nummer": "8",
+            "opschrift": "<div class=\"od-Opschrift\">Procesregels</div>",
+            "children": [
+              {
+                "identificatie": "gm0335_1__chp_8__subchp_8.1",
+                "expressie": "chp_8__subchp_8.1",
+                "type": "AFDELING",
+                "volgordeNummer": 0,
+                "gereserveerd": true,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "8.1",
+                "opschrift": "<div class=\"od-Opschrift\">Voorbereiding van besluiten</div>"
+              },
+              {
+                "identificatie": "gm0335_1__chp_8__subchp_8.2",
+                "expressie": "chp_8__subchp_8.2",
+                "type": "AFDELING",
+                "volgordeNummer": 1,
+                "gereserveerd": true,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "8.2",
+                "opschrift": "<div class=\"od-Opschrift\">Gemeentelijke projecten van publiek belang</div>"
+              },
+              {
+                "identificatie": "gm0335_1__chp_8__subchp_8.3",
+                "expressie": "chp_8__subchp_8.3",
+                "type": "AFDELING",
+                "volgordeNummer": 2,
+                "gereserveerd": false,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "8.3",
+                "opschrift": "<div class=\"od-Opschrift\">Advies</div>",
+                "children": [
+                  {
+                    "identificatie": "gm0335_1__chp_8__subchp_8.3__art_8.1",
+                    "expressie": "chp_8__subchp_8.3__art_8.1",
+                    "type": "ARTIKEL",
+                    "volgordeNummer": 0,
+                    "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Het college van burgemeester en wethouders vraagt advies aan de adviescommissie omgevingskwaliteit over een aanvraag om omgevingsvergunning voor het bouwen van een bouwwerk als bedoeld in artikel [xx].</div></div>",
+                    "gereserveerd": false,
+                    "vervallen": false,
+                    "label": "Artikel",
+                    "nummer": "8.1",
+                    "opschrift": "<div class=\"od-Opschrift\">Gemeentelijke adviescommissie</div>",
+                    "regeltekstHref": "https://service.pre.omgevingswet.overheid.nl/publiek/omgevingsdocumenten/api/presenteren/v7/regelteksten/nl.imow-gm0335.regeltekst.34817ba138a74e1cba1f703c23794eb2?geldigOp=2025-08-18&inWerkingOp=2025-08-18&beschikbaarOp=2025-08-18T11:00:29Z",
+                    "locaties": [
+                      "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+                    ]
+                  }
+                ]
+              },
+              {
+                "identificatie": "gm0335_1__chp_8__subchp_8.4",
+                "expressie": "chp_8__subchp_8.4",
+                "type": "AFDELING",
+                "volgordeNummer": 3,
+                "gereserveerd": true,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "8.4",
+                "opschrift": "<div class=\"od-Opschrift\">Maatschappelijk draagvlak</div>"
+              },
+              {
+                "identificatie": "gm0335_1__chp_8__subchp_8.5",
+                "expressie": "chp_8__subchp_8.5",
+                "type": "AFDELING",
+                "volgordeNummer": 4,
+                "gereserveerd": true,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "8.5",
+                "opschrift": "<div class=\"od-Opschrift\">Andere bestuursorganen</div>"
+              }
+            ]
+          },
+          {
+            "identificatie": "gm0335_1__chp_9",
+            "expressie": "chp_9",
+            "type": "HOOFDSTUK",
+            "volgordeNummer": 8,
+            "gereserveerd": false,
+            "vervallen": false,
+            "label": "Hoofdstuk",
+            "nummer": "9",
+            "opschrift": "<div class=\"od-Opschrift\">Handhaving</div>",
+            "children": [
+              {
+                "identificatie": "gm0335_1__chp_9__subchp_9.1",
+                "expressie": "chp_9__subchp_9.1",
+                "type": "AFDELING",
+                "volgordeNummer": 0,
+                "gereserveerd": true,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "9.1",
+                "opschrift": "<div class=\"od-Opschrift\">Strafbepalingen</div>"
+              },
+              {
+                "identificatie": "gm0335_1__chp_9__subchp_9.2",
+                "expressie": "chp_9__subchp_9.2",
+                "type": "AFDELING",
+                "volgordeNummer": 1,
+                "gereserveerd": true,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "9.2",
+                "opschrift": "<div class=\"od-Opschrift\">Kwaliteitsborging en afstemming uitvoering en handhaving</div>"
+              }
+            ]
+          },
+          {
+            "identificatie": "gm0335_1__chp_10",
+            "expressie": "chp_10",
+            "type": "HOOFDSTUK",
+            "volgordeNummer": 9,
+            "gereserveerd": false,
+            "vervallen": false,
+            "label": "Hoofdstuk",
+            "nummer": "10",
+            "opschrift": "<div class=\"od-Opschrift\">Monitoring en informatie</div>",
+            "children": [
+              {
+                "identificatie": "gm0335_1__chp_10__subchp_10.1",
+                "expressie": "chp_10__subchp_10.1",
+                "type": "AFDELING",
+                "volgordeNummer": 0,
+                "gereserveerd": true,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "10.1",
+                "opschrift": "<div class=\"od-Opschrift\">Monitoring</div>"
+              }
+            ]
+          },
+          {
+            "identificatie": "gm0335_1__chp_11",
+            "expressie": "chp_11",
+            "type": "HOOFDSTUK",
+            "volgordeNummer": 10,
+            "gereserveerd": false,
+            "vervallen": false,
+            "label": "Hoofdstuk",
+            "nummer": "11",
+            "opschrift": "<div class=\"od-Opschrift\">Overgangsrecht</div>",
+            "children": [
+              {
+                "identificatie": "gm0335_1__chp_11__subchp_11.1",
+                "expressie": "chp_11__subchp_11.1",
+                "type": "AFDELING",
+                "volgordeNummer": 0,
+                "gereserveerd": true,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "11.1",
+                "opschrift": "<div class=\"od-Opschrift\">Overgangsrecht</div>"
+              },
+              {
+                "identificatie": "gm0335_1__chp_11__subchp_11.2",
+                "expressie": "chp_11__subchp_11.2",
+                "type": "AFDELING",
+                "volgordeNummer": 1,
+                "gereserveerd": true,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "11.2",
+                "opschrift": "<div class=\"od-Opschrift\">Bruidsschat</div>"
+              }
+            ]
+          },
+          {
+            "identificatie": "gm0335_1__chp_12",
+            "expressie": "chp_12",
+            "type": "HOOFDSTUK",
+            "volgordeNummer": 11,
+            "gereserveerd": false,
+            "vervallen": false,
+            "label": "Hoofdstuk",
+            "nummer": "12",
+            "opschrift": "<div class=\"od-Opschrift\">Slotbepalingen</div>",
+            "children": [
+              {
+                "identificatie": "gm0335_1__chp_12__subchp_12.1",
+                "expressie": "chp_12__subchp_12.1",
+                "type": "AFDELING",
+                "volgordeNummer": 0,
+                "gereserveerd": true,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "12.1",
+                "opschrift": "<div class=\"od-Opschrift\">Uitvoerbaarheid en evaluatie</div>"
+              },
+              {
+                "identificatie": "gm0335_1__chp_12__subchp_12.2",
+                "expressie": "chp_12__subchp_12.2",
+                "type": "AFDELING",
+                "volgordeNummer": 1,
+                "gereserveerd": true,
+                "vervallen": false,
+                "label": "Afdeling",
+                "nummer": "12.2",
+                "opschrift": "<div class=\"od-Opschrift\">Overige bepalingen</div>"
+              }
+            ]
+          },
+          {
+            "identificatie": "gm0335_1694de61c06e4531b43fbc0c85851cdf__ody__chp_13",
+            "expressie": "chp_13",
+            "type": "HOOFDSTUK",
+            "volgordeNummer": 12,
+            "gereserveerd": true,
+            "vervallen": false,
+            "label": "Hoofdstuk",
+            "nummer": "13"
+          }
+        ]
+      },
+      {
+        "identificatie": "gm0335_242b636ec1364e078fa2e35ff1fb9c8b__cmp_o_1",
+        "expressie": "cmp_I",
+        "type": "BIJLAGE",
+        "volgordeNummer": 1,
+        "gereserveerd": false,
+        "vervallen": false,
+        "label": "Bijlage",
+        "nummer": "I",
+        "opschrift": "<div class=\"od-Opschrift\">Overzicht Informatieobjecten</div>",
+        "children": [
+          {
+            "identificatie": "gm0335_4f301c0f4d454eaead1b1cf274e2a5ce__cmp_o_1__content_o_1",
+            "expressie": "cmp_I__content_o_1",
+            "type": "DIVISIETEKST",
+            "volgordeNummer": 0,
+            "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">Gereserveerd</div><div class=\"od-Begrippenlijst\"><div class=\"od-Begrip\"><div class=\"od-Term\">Gebiedsaanwijzing: centrumgebied</div><div class=\"od-Definitie\"><div class=\"od-Al\"><a id=\"gm0335_ec88611000ec4463aec8369417f80d7e__ref_1\" href=\"https://identifier-preprod.overheid.nl//join/id/regdata/gm0335/2022/gebiedsaanwijzing_ee89b9c22b3348d1a1d170387375473e/nld@2022-10-18;1\" target=\"_blank\">/join/id/regdata/gm0335/2022/gebiedsaanwijzing_ee89b9c22b3348d1a1d170387375473e/nld@2022-10-18;1</a></div></div></div><div class=\"od-Begrip\"><div class=\"od-Term\">kaarsen- en glazendrukkerij</div><div class=\"od-Definitie\"><div class=\"od-Al\"><a id=\"gm0335_118b9700dd3640e6a24e621eba036259__ref_1\" href=\"https://identifier-preprod.overheid.nl//join/id/regdata/gm0335/2022/kaarsen__en_glazendrukkerij/nld@2022-10-18;1\" target=\"_blank\">/join/id/regdata/gm0335/2022/kaarsen__en_glazendrukkerij/nld@2022-10-18;1</a></div></div></div><div class=\"od-Begrip\"><div class=\"od-Term\">Locatie: bedrijfsactiviteiten</div><div class=\"od-Definitie\"><div class=\"od-Al\"><a id=\"gm0335_1d39ce948ffa4a679067db4131aeda21__ref_1\" href=\"https://identifier-preprod.overheid.nl//join/id/regdata/gm0335/2022/locatiegroep_225c78dac69840ae82226b09b05468d4/nld@2022-10-18;1\" target=\"_blank\">/join/id/regdata/gm0335/2022/locatiegroep_225c78dac69840ae82226b09b05468d4/nld@2022-10-18;1</a></div></div></div><div class=\"od-Begrip\"><div class=\"od-Term\">openbaar toegankelijk gebied</div><div class=\"od-Definitie\"><div class=\"od-Al\"><a id=\"gm0335_08625327b7e24d0eb4f2eedf128f777b__ref_1\" href=\"https://identifier-preprod.overheid.nl//join/id/regdata/gm0335/2022/openbaar_toegankelijk_gebied/nld@2022-10-18;1\" target=\"_blank\">/join/id/regdata/gm0335/2022/openbaar_toegankelijk_gebied/nld@2022-10-18;1</a></div></div></div><div class=\"od-Begrip\"><div class=\"od-Term\">woongebied Hofland-Oost</div><div class=\"od-Definitie\"><div class=\"od-Al\"><a id=\"gm0335_09033cd1f31a438a9ad4391040975053__ref_1\" href=\"https://identifier-preprod.overheid.nl//join/id/regdata/gm0335/2022/woongebied_Hofland_Oost/nld@2022-10-18;1\" target=\"_blank\">/join/id/regdata/gm0335/2022/woongebied_Hofland_Oost/nld@2022-10-18;1</a></div></div></div><div class=\"od-Begrip\"><div class=\"od-Term\">woongebied Montfoort</div><div class=\"od-Definitie\"><div class=\"od-Al\"><a id=\"gm0335_ec8c437d240543d2ae8f00c4d78e3363__ref_1\" href=\"https://identifier-preprod.overheid.nl//join/id/regdata/gm0335/2022/woongebied_Montfoort/nld@2022-10-18;1\" target=\"_blank\">/join/id/regdata/gm0335/2022/woongebied_Montfoort/nld@2022-10-18;1</a></div></div></div></div></div>",
+            "gereserveerd": false,
+            "vervallen": false,
+            "children": [
+              {
+                "identificatie": "gm0335_87a2c578c7c6492d8ab833d97124a10e__cmp_o_1__content_o_1__list_o_1__item_o_1",
+                "expressie": "cmp_o_1__content_o_1__list_o_1__item_o_1",
+                "type": "BEGRIP",
+                "volgordeNummer": 0,
+                "inhoud": "<div class=\"od-Begrip\"><div class=\"od-Term\">Gebiedsaanwijzing: centrumgebied</div><div class=\"od-Definitie\"><div class=\"od-Al\"><a id=\"gm0335_ec88611000ec4463aec8369417f80d7e__ref_1\" href=\"https://identifier-preprod.overheid.nl//join/id/regdata/gm0335/2022/gebiedsaanwijzing_ee89b9c22b3348d1a1d170387375473e/nld@2022-10-18;1\" target=\"_blank\">/join/id/regdata/gm0335/2022/gebiedsaanwijzing_ee89b9c22b3348d1a1d170387375473e/nld@2022-10-18;1</a></div></div></div>",
+                "gereserveerd": false,
+                "vervallen": false
+              },
+              {
+                "identificatie": "gm0335_5b1fea98be02474398a71858f87972c1__cmp_o_1__content_o_1__list_o_1__item_o_2",
+                "expressie": "cmp_o_1__content_o_1__list_o_1__item_o_2",
+                "type": "BEGRIP",
+                "volgordeNummer": 1,
+                "inhoud": "<div class=\"od-Begrip\"><div class=\"od-Term\">kaarsen- en glazendrukkerij</div><div class=\"od-Definitie\"><div class=\"od-Al\"><a id=\"gm0335_118b9700dd3640e6a24e621eba036259__ref_1\" href=\"https://identifier-preprod.overheid.nl//join/id/regdata/gm0335/2022/kaarsen__en_glazendrukkerij/nld@2022-10-18;1\" target=\"_blank\">/join/id/regdata/gm0335/2022/kaarsen__en_glazendrukkerij/nld@2022-10-18;1</a></div></div></div>",
+                "gereserveerd": false,
+                "vervallen": false
+              },
+              {
+                "identificatie": "gm0335_0a0bcf1bc6b445209967434fe5c7242e__cmp_o_1__content_o_1__list_o_1__item_o_3",
+                "expressie": "cmp_o_1__content_o_1__list_o_1__item_o_3",
+                "type": "BEGRIP",
+                "volgordeNummer": 2,
+                "inhoud": "<div class=\"od-Begrip\"><div class=\"od-Term\">Locatie: bedrijfsactiviteiten</div><div class=\"od-Definitie\"><div class=\"od-Al\"><a id=\"gm0335_1d39ce948ffa4a679067db4131aeda21__ref_1\" href=\"https://identifier-preprod.overheid.nl//join/id/regdata/gm0335/2022/locatiegroep_225c78dac69840ae82226b09b05468d4/nld@2022-10-18;1\" target=\"_blank\">/join/id/regdata/gm0335/2022/locatiegroep_225c78dac69840ae82226b09b05468d4/nld@2022-10-18;1</a></div></div></div>",
+                "gereserveerd": false,
+                "vervallen": false
+              },
+              {
+                "identificatie": "gm0335_ed91f07272dd4c6e9a35949b7051ca8c__cmp_o_1__content_o_1__list_o_1__item_o_4",
+                "expressie": "cmp_o_1__content_o_1__list_o_1__item_o_4",
+                "type": "BEGRIP",
+                "volgordeNummer": 3,
+                "inhoud": "<div class=\"od-Begrip\"><div class=\"od-Term\">openbaar toegankelijk gebied</div><div class=\"od-Definitie\"><div class=\"od-Al\"><a id=\"gm0335_08625327b7e24d0eb4f2eedf128f777b__ref_1\" href=\"https://identifier-preprod.overheid.nl//join/id/regdata/gm0335/2022/openbaar_toegankelijk_gebied/nld@2022-10-18;1\" target=\"_blank\">/join/id/regdata/gm0335/2022/openbaar_toegankelijk_gebied/nld@2022-10-18;1</a></div></div></div>",
+                "gereserveerd": false,
+                "vervallen": false
+              },
+              {
+                "identificatie": "gm0335_3df7a101549e41c68f985d92f5e0dcfd__cmp_o_1__content_o_1__list_o_1__item_o_5",
+                "expressie": "cmp_o_1__content_o_1__list_o_1__item_o_5",
+                "type": "BEGRIP",
+                "volgordeNummer": 4,
+                "inhoud": "<div class=\"od-Begrip\"><div class=\"od-Term\">woongebied Hofland-Oost</div><div class=\"od-Definitie\"><div class=\"od-Al\"><a id=\"gm0335_09033cd1f31a438a9ad4391040975053__ref_1\" href=\"https://identifier-preprod.overheid.nl//join/id/regdata/gm0335/2022/woongebied_Hofland_Oost/nld@2022-10-18;1\" target=\"_blank\">/join/id/regdata/gm0335/2022/woongebied_Hofland_Oost/nld@2022-10-18;1</a></div></div></div>",
+                "gereserveerd": false,
+                "vervallen": false
+              },
+              {
+                "identificatie": "gm0335_11f52cc63d76442ea1d6795d1741ff0a__cmp_o_1__content_o_1__list_o_1__item_o_6",
+                "expressie": "cmp_o_1__content_o_1__list_o_1__item_o_6",
+                "type": "BEGRIP",
+                "volgordeNummer": 5,
+                "inhoud": "<div class=\"od-Begrip\"><div class=\"od-Term\">woongebied Montfoort</div><div class=\"od-Definitie\"><div class=\"od-Al\"><a id=\"gm0335_ec8c437d240543d2ae8f00c4d78e3363__ref_1\" href=\"https://identifier-preprod.overheid.nl//join/id/regdata/gm0335/2022/woongebied_Montfoort/nld@2022-10-18;1\" target=\"_blank\">/join/id/regdata/gm0335/2022/woongebied_Montfoort/nld@2022-10-18;1</a></div></div></div>",
+                "gereserveerd": false,
+                "vervallen": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "identificatie": "gm0335_4ba58a0800d2423a93717da88c65184f__cmp_II",
+        "expressie": "cmp_II",
+        "type": "BIJLAGE",
+        "volgordeNummer": 2,
+        "gereserveerd": false,
+        "vervallen": false,
+        "label": "Bijlage",
+        "nummer": "II",
+        "opschrift": "<div class=\"od-Opschrift\">Begripsbepalingen</div>",
+        "children": [
+          {
+            "identificatie": "gm0335_aa16a8e8f95640fc89804888b0b2be15__cmp_II__content_o_1",
+            "expressie": "cmp_II__content_o_1",
+            "type": "DIVISIETEKST",
+            "volgordeNummer": 0,
+            "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Begrippenlijst\"><div class=\"od-Begrip\"><div class=\"od-Term\">openbaar toegankelijk gebied</div><div class=\"od-Definitie\"><div class=\"od-Al\">weg als bedoeld in artikel 1, eerste lid, onder b, van de Wegenverkeerswet 1994, openbaar water, alsmede pleinen, parken, plantsoenen, en ander openbaar gebied dat voor publiek algemeen toegankelijk is;</div></div></div></div></div>",
+            "gereserveerd": false,
+            "vervallen": false,
+            "children": [
+              {
+                "identificatie": "gm0335_1cdf45fe232349ad9dd122908596edcf__cmp_II__content_o_1__list_o_1__item_o_1",
+                "expressie": "cmp_II__content_o_1__list_o_1__item_o_1",
+                "type": "BEGRIP",
+                "volgordeNummer": 0,
+                "inhoud": "<div class=\"od-Begrip\"><div class=\"od-Term\">openbaar toegankelijk gebied</div><div class=\"od-Definitie\"><div class=\"od-Al\">weg als bedoeld in artikel 1, eerste lid, onder b, van de Wegenverkeerswet 1994, openbaar water, alsmede pleinen, parken, plantsoenen, en ander openbaar gebied dat voor publiek algemeen toegankelijk is;</div></div></div>",
+                "gereserveerd": false,
+                "vervallen": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "identificatie": "recital",
+        "expressie": "recital",
+        "type": "TOELICHTING",
+        "volgordeNummer": 3,
+        "gereserveerd": false,
+        "vervallen": false,
+        "opschrift": "<div class=\"od-Opschrift\">Toelichting</div>",
+        "children": [
+          {
+            "identificatie": "genrecital",
+            "expressie": "genrecital",
+            "type": "ALGEMENE_TOELICHTING",
+            "volgordeNummer": 0,
+            "inhoud": "<div class=\"od-InleidendeTekst\"><div class=\"od-Kop\"><div class=\"od-Opschrift\">Inleiding</div></div><div class=\"od-Al\">NTB</div></div>",
+            "gereserveerd": false,
+            "vervallen": false,
+            "opschrift": "<div class=\"od-Opschrift\">Algemene Toelichting</div>",
+            "children": [
+              {
+                "identificatie": "gm0335_8c0aa70ca0ff48b981c13dd5f101aaa0__genrecital__div_o_1",
+                "expressie": "genrecital__div_o_1",
+                "type": "DIVISIE",
+                "volgordeNummer": 0,
+                "gereserveerd": true,
+                "vervallen": false,
+                "opschrift": "<div class=\"od-Opschrift\">NTB</div>"
+              }
+            ]
+          },
+          {
+            "identificatie": "artrecital",
+            "expressie": "artrecital",
+            "type": "ARTIKELGEWIJZE_TOELICHTING",
+            "volgordeNummer": 1,
+            "gereserveerd": false,
+            "vervallen": false,
+            "opschrift": "<div class=\"od-Opschrift\">Artikelsgewijze Toelichting</div>",
+            "children": [
+              {
+                "identificatie": "gm0335_0b9ce0a7bf2848ae9e29c8a380b9830a__recital_o_1__artrecital_o_1__content_o_1",
+                "expressie": "artrecital__content_o_1",
+                "type": "DIVISIETEKST",
+                "volgordeNummer": 0,
+                "inhoud": "<div class=\"od-Inhoud\"><div class=\"od-Al\">test</div></div>",
+                "gereserveerd": false,
+                "vervallen": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "uniqueActiviteiten": [
+    {
+      "identificatie": "nl.imow-gm0335.activiteit.50fa2636c4794a5bb6d52bb49d1c2a43",
+      "isOntwerp": false,
+      "naam": "activiteiten in cursus plan",
+      "groepWaarde": "overig",
+      "regelBeheerObjecten": [],
+      "bovenliggendeActiviteitIdentificatie": "nl.imow-gm0335.activiteit.ActInOmgevingsplanGem",
+      "hasOnderliggendeActiviteiten": true,
+      "expressies": [
+        "chp_2__subchp_2.1__art_2.1__para_1"
+      ],
+      "regeltekstenIdentificaties": [
+        "nl.imow-gm0335.regeltekst.5882dfa412814ca99d8575b7fdab9fbf"
+      ],
+      "cordX": 124547,
+      "cordY": 450838,
+      "boundingBox": {
+        "minx": 119411.391,
+        "maxx": 129682.07,
+        "miny": 446952.908,
+        "maxy": 454723.484
+      },
+      "locaties": [
+        "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+      ],
+      "werkzaamheden": [],
+      "activiteitlocatieaanduidingen": [
+        {
+          "identificatie": "nl.imow-gm0335.activiteitlocatieaanduiding.317c5969dfed4095b6b76782a794c4ef",
+          "activiteitregelkwalificatie": {
+            "code": "http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid",
+            "waarde": "anders geduid"
+          },
+          "locaties": [
+            "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+          ],
+          "isOntwerp": false,
+          "expressie": "chp_2__subchp_2.1__art_2.1__para_1"
+        }
+      ]
+    },
+    {
+      "identificatie": "nl.imow-gm0335.activiteit.d7d89f85b1dc4feca3fa5e9f24ac30c8",
+      "isOntwerp": false,
+      "naam": "bedrijfsactiviteit verrichten",
+      "groepWaarde": "exploitatieactiviteit bedrijf",
+      "regelBeheerObjecten": [],
+      "bovenliggendeActiviteitIdentificatie": "nl.imow-gm0335.activiteit.4ab5fc8e9f8e4433afaac38d12dd6ced",
+      "hasOnderliggendeActiviteiten": false,
+      "expressies": [
+        "chp_4__subchp_4.2__subsec_4.2.2__art_4.10__para_1",
+        "chp_4__subchp_4.2__subsec_4.2.3__art_4.13__para_1",
+        "chp_5__subchp_5.3__subsec_5.3.2__art_5.15",
+        "chp_5__subchp_5.3__subsec_5.3.2__art_5.16",
+        "chp_5__subchp_5.3__subsec_5.3.2__art_5.17",
+        "chp_5__subchp_5.3__subsec_5.3.2__art_5.18",
+        "chp_5__subchp_5.3__subsec_5.3.2__art_5.19"
+      ],
+      "regeltekstenIdentificaties": [
+        "nl.imow-gm0335.regeltekst.a724e2888ea043578a60add1d9748a34",
+        "nl.imow-gm0335.regeltekst.28f2e603f5c144bd8ad9ec1ccef4b926",
+        "nl.imow-gm0335.regeltekst.dbb70fee1e27441dbe3b32a5c1bd60fb",
+        "nl.imow-gm0335.regeltekst.fb4b2c6ad1d74222942cc668c5e0abb6",
+        "nl.imow-gm0335.regeltekst.2902ac2d06e84469a661d9ac2fd81cf7",
+        "nl.imow-gm0335.regeltekst.dfe3be6aeacf452d87279c074f6ae55d",
+        "nl.imow-gm0335.regeltekst.3fc041d40d0445b382cb36197cf6915c"
+      ],
+      "cordX": 124547,
+      "cordY": 450838,
+      "boundingBox": {
+        "minx": 119411.391,
+        "maxx": 129682.07,
+        "miny": 446952.908,
+        "maxy": 454723.484
+      },
+      "locaties": [
+        "nl.imow-gm0335.gebied.7b8572c97cf043bc8c029a58513ec7ff",
+        "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600",
+        "nl.imow-gm0335.gebiedengroep.20b0916685e341d2a89c636bfe7ddd06"
+      ],
+      "werkzaamheden": [],
+      "activiteitlocatieaanduidingen": [
+        {
+          "identificatie": "nl.imow-gm0335.activiteitlocatieaanduiding.878456eb09ea461d8f145b5bd3164f64",
+          "activiteitregelkwalificatie": {
+            "code": "http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid",
+            "waarde": "anders geduid"
+          },
+          "locaties": [
+            "nl.imow-gm0335.gebied.7b8572c97cf043bc8c029a58513ec7ff"
+          ],
+          "isOntwerp": false,
+          "expressie": "chp_4__subchp_4.2__subsec_4.2.2__art_4.10__para_1"
+        },
+        {
+          "identificatie": "nl.imow-gm0335.activiteitlocatieaanduiding.d8e4906acc6a4c568e4907df03f8cb1d",
+          "activiteitregelkwalificatie": {
+            "code": "http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan",
+            "waarde": "toegestaan"
+          },
+          "locaties": [
+            "nl.imow-gm0335.gebiedengroep.20b0916685e341d2a89c636bfe7ddd06"
+          ],
+          "isOntwerp": false,
+          "expressie": "chp_4__subchp_4.2__subsec_4.2.3__art_4.13__para_1"
+        },
+        {
+          "identificatie": "nl.imow-gm0335.activiteitlocatieaanduiding.8475c3289adb40c8b1c284fc807a0294",
+          "activiteitregelkwalificatie": {
+            "code": "http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid",
+            "waarde": "anders geduid"
+          },
+          "locaties": [
+            "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+          ],
+          "isOntwerp": false,
+          "expressie": "chp_5__subchp_5.3__subsec_5.3.2__art_5.15"
+        },
+        {
+          "identificatie": "nl.imow-gm0335.activiteitlocatieaanduiding.206676e591c6483dbf6406c97156c20a",
+          "activiteitregelkwalificatie": {
+            "code": "http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid",
+            "waarde": "anders geduid"
+          },
+          "locaties": [
+            "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+          ],
+          "isOntwerp": false,
+          "expressie": "chp_5__subchp_5.3__subsec_5.3.2__art_5.16"
+        },
+        {
+          "identificatie": "nl.imow-gm0335.activiteitlocatieaanduiding.8096ea02b62648a8929e375ba061f630",
+          "activiteitregelkwalificatie": {
+            "code": "http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid",
+            "waarde": "anders geduid"
+          },
+          "locaties": [
+            "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+          ],
+          "isOntwerp": false,
+          "expressie": "chp_5__subchp_5.3__subsec_5.3.2__art_5.17"
+        },
+        {
+          "identificatie": "nl.imow-gm0335.activiteitlocatieaanduiding.afcfe95837ac4645b762facabce72cab",
+          "activiteitregelkwalificatie": {
+            "code": "http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid",
+            "waarde": "anders geduid"
+          },
+          "locaties": [
+            "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+          ],
+          "isOntwerp": false,
+          "expressie": "chp_5__subchp_5.3__subsec_5.3.2__art_5.18"
+        },
+        {
+          "identificatie": "nl.imow-gm0335.activiteitlocatieaanduiding.a823491ca37c43e98a5df8d2d16f7c18",
+          "activiteitregelkwalificatie": {
+            "code": "http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid",
+            "waarde": "anders geduid"
+          },
+          "locaties": [
+            "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+          ],
+          "isOntwerp": false,
+          "expressie": "chp_5__subchp_5.3__subsec_5.3.2__art_5.19"
+        }
+      ]
+    },
+    {
+      "identificatie": "nl.imow-gm0335.activiteit.4ab5fc8e9f8e4433afaac38d12dd6ced",
+      "isOntwerp": false,
+      "naam": "gebiedsgericht geregelde activiteit met gebruiksruimte",
+      "groepWaarde": "overig",
+      "regelBeheerObjecten": [],
+      "bovenliggendeActiviteitIdentificatie": "nl.imow-gm0335.activiteit.50fa2636c4794a5bb6d52bb49d1c2a43",
+      "hasOnderliggendeActiviteiten": true,
+      "expressies": [
+        "chp_4__subchp_4.2__subsec_4.2.1__art_4.7"
+      ],
+      "regeltekstenIdentificaties": [
+        "nl.imow-gm0335.regeltekst.a37207ab26d549a6bc87a5523ae1c977"
+      ],
+      "cordX": 124547,
+      "cordY": 450838,
+      "boundingBox": {
+        "minx": 119411.391,
+        "maxx": 129682.07,
+        "miny": 446952.908,
+        "maxy": 454723.484
+      },
+      "locaties": [
+        "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+      ],
+      "werkzaamheden": [],
+      "activiteitlocatieaanduidingen": [
+        {
+          "identificatie": "nl.imow-gm0335.activiteitlocatieaanduiding.c7f8c162e59541949927b53187e3bd8b",
+          "activiteitregelkwalificatie": {
+            "code": "http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid",
+            "waarde": "anders geduid"
+          },
+          "locaties": [
+            "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+          ],
+          "isOntwerp": false,
+          "expressie": "chp_4__subchp_4.2__subsec_4.2.1__art_4.7"
+        }
+      ]
+    },
+    {
+      "identificatie": "nl.imow-gm0335.activiteit.c3841fe98a8c47d2952911f5aef252c9",
+      "isOntwerp": false,
+      "naam": "maatschappelijke activiteit verrichten",
+      "groepWaarde": "maatschappelijke activiteit",
+      "regelBeheerObjecten": [],
+      "bovenliggendeActiviteitIdentificatie": "nl.imow-gm0335.activiteit.4ab5fc8e9f8e4433afaac38d12dd6ced",
+      "hasOnderliggendeActiviteiten": false,
+      "expressies": [
+        "chp_4__subchp_4.2__subsec_4.2.2__art_4.10__para_1",
+        "chp_4__subchp_4.2__subsec_4.2.4__art_4.16__para_1",
+        "chp_5__subchp_5.3__subsec_5.3.4__art_5.22",
+        "chp_5__subchp_5.3__subsec_5.3.4__art_5.23",
+        "chp_5__subchp_5.3__subsec_5.3.4__art_5.24",
+        "chp_5__subchp_5.3__subsec_5.3.4__art_5.25",
+        "chp_5__subchp_5.3__subsec_5.3.4__art_5.26"
+      ],
+      "regeltekstenIdentificaties": [
+        "nl.imow-gm0335.regeltekst.a724e2888ea043578a60add1d9748a34",
+        "nl.imow-gm0335.regeltekst.cbffcb6ae8c64906ab4c984b89b12e8b",
+        "nl.imow-gm0335.regeltekst.e6112a94de8f4dce9848c750e56ae094",
+        "nl.imow-gm0335.regeltekst.6ebbebe703264ff897e6f482daf9a2b5",
+        "nl.imow-gm0335.regeltekst.f93e2fccb92248efb31d12af8819ce41",
+        "nl.imow-gm0335.regeltekst.4c62e6c6a45f4c4ab8e34ac5a6d79a45",
+        "nl.imow-gm0335.regeltekst.cda79af7dd6c4db49012a1c22ff2e844"
+      ],
+      "cordX": 124547,
+      "cordY": 450838,
+      "boundingBox": {
+        "minx": 119411.391,
+        "maxx": 129682.07,
+        "miny": 446952.908,
+        "maxy": 454723.484
+      },
+      "locaties": [
+        "nl.imow-gm0335.gebied.7b8572c97cf043bc8c029a58513ec7ff",
+        "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600",
+        "nl.imow-gm0335.gebied.aa4e31e27a504e87b5e8f7821b5830f4"
+      ],
+      "werkzaamheden": [],
+      "activiteitlocatieaanduidingen": [
+        {
+          "identificatie": "nl.imow-gm0335.activiteitlocatieaanduiding.a5549967236e41d392e2297d30191b27",
+          "activiteitregelkwalificatie": {
+            "code": "http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid",
+            "waarde": "anders geduid"
+          },
+          "locaties": [
+            "nl.imow-gm0335.gebied.7b8572c97cf043bc8c029a58513ec7ff"
+          ],
+          "isOntwerp": false,
+          "expressie": "chp_4__subchp_4.2__subsec_4.2.2__art_4.10__para_1"
+        },
+        {
+          "identificatie": "nl.imow-gm0335.activiteitlocatieaanduiding.5982249e026b40ddb9e96656ccb5cb85",
+          "activiteitregelkwalificatie": {
+            "code": "http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid",
+            "waarde": "anders geduid"
+          },
+          "locaties": [
+            "nl.imow-gm0335.gebied.aa4e31e27a504e87b5e8f7821b5830f4"
+          ],
+          "isOntwerp": false,
+          "expressie": "chp_4__subchp_4.2__subsec_4.2.4__art_4.16__para_1"
+        },
+        {
+          "identificatie": "nl.imow-gm0335.activiteitlocatieaanduiding.8bbba98e8d57444dac0dacc2870f683f",
+          "activiteitregelkwalificatie": {
+            "code": "http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid",
+            "waarde": "anders geduid"
+          },
+          "locaties": [
+            "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+          ],
+          "isOntwerp": false,
+          "expressie": "chp_5__subchp_5.3__subsec_5.3.4__art_5.22"
+        },
+        {
+          "identificatie": "nl.imow-gm0335.activiteitlocatieaanduiding.6658f16eba7a4393b49824324880df7b",
+          "activiteitregelkwalificatie": {
+            "code": "http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid",
+            "waarde": "anders geduid"
+          },
+          "locaties": [
+            "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+          ],
+          "isOntwerp": false,
+          "expressie": "chp_5__subchp_5.3__subsec_5.3.4__art_5.23"
+        },
+        {
+          "identificatie": "nl.imow-gm0335.activiteitlocatieaanduiding.58f1b32240114da7b505be921dd3d48a",
+          "activiteitregelkwalificatie": {
+            "code": "http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid",
+            "waarde": "anders geduid"
+          },
+          "locaties": [
+            "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+          ],
+          "isOntwerp": false,
+          "expressie": "chp_5__subchp_5.3__subsec_5.3.4__art_5.24"
+        },
+        {
+          "identificatie": "nl.imow-gm0335.activiteitlocatieaanduiding.9a6b5b9651b74b6fadd8d0729f419e09",
+          "activiteitregelkwalificatie": {
+            "code": "http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid",
+            "waarde": "anders geduid"
+          },
+          "locaties": [
+            "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+          ],
+          "isOntwerp": false,
+          "expressie": "chp_5__subchp_5.3__subsec_5.3.4__art_5.25"
+        },
+        {
+          "identificatie": "nl.imow-gm0335.activiteitlocatieaanduiding.335f9daf09ef4fd99fdc386c8c7330ef",
+          "activiteitregelkwalificatie": {
+            "code": "http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid",
+            "waarde": "anders geduid"
+          },
+          "locaties": [
+            "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600"
+          ],
+          "isOntwerp": false,
+          "expressie": "chp_5__subchp_5.3__subsec_5.3.4__art_5.26"
+        }
+      ]
+    },
+    {
+      "identificatie": "nl.imow-gm0335.activiteit.796953ab32e74091862fc3e908e65ec5",
+      "isOntwerp": false,
+      "naam": "graven",
+      "groepWaarde": "bodemactiviteit",
+      "regelBeheerObjecten": [],
+      "bovenliggendeActiviteitIdentificatie": "nl.imow-gm0335.activiteit.50fa2636c4794a5bb6d52bb49d1c2a43",
+      "hasOnderliggendeActiviteiten": false,
+      "expressies": [
+        "chp_5__subchp_5.2__subsec_5.2.3__art_5.10",
+        "chp_5__subchp_5.2__subsec_5.2.3__art_5.12"
+      ],
+      "regeltekstenIdentificaties": [
+        "nl.imow-gm0335.regeltekst.f6b03ad00b9d4dfc8acfa9cad115fecd",
+        "nl.imow-gm0335.regeltekst.0c4c083764bb48bd975f560c109fbf41"
+      ],
+      "cordX": 124589,
+      "cordY": 450543,
+      "boundingBox": {
+        "minx": 124515.621,
+        "maxx": 124661.393,
+        "miny": 450465.62,
+        "maxy": 450620.834
+      },
+      "locaties": [
+        "nl.imow-gm0335.gebied.b605a670d7d04b458d2a18d06cefa33b"
+      ],
+      "werkzaamheden": [],
+      "activiteitlocatieaanduidingen": [
+        {
+          "identificatie": "nl.imow-gm0335.activiteitlocatieaanduiding.908fd641cc554c0e88a84c17ad102471",
+          "activiteitregelkwalificatie": {
+            "code": "http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid",
+            "waarde": "anders geduid"
+          },
+          "locaties": [
+            "nl.imow-gm0335.gebied.b605a670d7d04b458d2a18d06cefa33b"
+          ],
+          "isOntwerp": false,
+          "expressie": "chp_5__subchp_5.2__subsec_5.2.3__art_5.10"
+        },
+        {
+          "identificatie": "nl.imow-gm0335.activiteitlocatieaanduiding.de0211e2e6b04ed3a3a1886d4640a3fb",
+          "activiteitregelkwalificatie": {
+            "code": "http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht",
+            "waarde": "vergunningplicht"
+          },
+          "locaties": [
+            "nl.imow-gm0335.gebied.b605a670d7d04b458d2a18d06cefa33b"
+          ],
+          "isOntwerp": false,
+          "expressie": "chp_5__subchp_5.2__subsec_5.2.3__art_5.12"
+        }
+      ]
+    }
+  ],
+  "uniqueGebiedsaanwijzingen": [
+    {
+      "identificatie": "nl.imow-gm0335.gebiedsaanwijzing.25c4f9ef0a164f16a04e4bb35e245fa4",
+      "isOntwerp": false,
+      "gebiedsaanwijzingType": "http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie",
+      "label": null,
+      "naam": "centrumgebied",
+      "groep": {
+        "code": "http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Centrumgebied",
+        "waarde": "centrumgebied"
+      },
+      "expressies": [
+        "chp_4__subchp_4.2__subsec_4.2.4__art_4.14",
+        "chp_4__subchp_4.2__subsec_4.2.4__art_4.15",
+        "chp_4__subchp_4.2__subsec_4.2.4__art_4.16__para_1"
+      ],
+      "regeltekstenIdentificaties": [
+        "nl.imow-gm0335.regeltekst.120bfa789d5f4ea7a767bc5e6963e64a",
+        "nl.imow-gm0335.regeltekst.ae46aac7b45e409eaec57a9ab3be7544",
+        "nl.imow-gm0335.regeltekst.cbffcb6ae8c64906ab4c984b89b12e8b"
+      ],
+      "locaties": [
+        "nl.imow-gm0335.gebied.aa4e31e27a504e87b5e8f7821b5830f4"
+      ]
+    }
+  ],
+  "uniqueOmgevingsnormen": [],
+  "uniqueOmgevingswaarden": [],
+  "uniqueKaarten": [],
+  "uniqueThemas": [],
+  "uniqueLocaties": [
+    {
+      "identificatie": "nl.imow-gm0335.ambtsgebied.1a3647e95d6849f2b7c50501a919e600",
+      "locatieType": "Ambtsgebied",
+      "noemer": "Ambtsgebied voor Montfoort",
+      "boundingBox": {
+        "minx": 119411.391,
+        "maxx": 129682.07,
+        "miny": 446952.908,
+        "maxy": 454723.484
+      },
+      "isOntwerp": false,
+      "geometrieIdentificatie": "GM0335_20220324"
+    },
+    {
+      "identificatie": "nl.imow-gm0335.gebied.b605a670d7d04b458d2a18d06cefa33b",
+      "locatieType": "Gebied",
+      "noemer": "openbaar toegankelijk gebied",
+      "boundingBox": {
+        "minx": 124515.621,
+        "maxx": 124661.393,
+        "miny": 450465.62,
+        "maxy": 450620.834
+      },
+      "isOntwerp": false,
+      "geometrieIdentificatie": "3532f82e88534981a9d10c944da962ee"
+    },
+    {
+      "identificatie": "nl.imow-gm0335.gebied.7b8572c97cf043bc8c029a58513ec7ff",
+      "locatieType": "Gebied",
+      "noemer": "woongebied Hofland-Oost",
+      "boundingBox": {
+        "minx": 125267.99,
+        "maxx": 125825.15,
+        "miny": 449857.071,
+        "maxy": 450725.637
+      },
+      "isOntwerp": false,
+      "geometrieIdentificatie": "7225552343c64fceb2e7e0d227905993"
+    },
+    {
+      "identificatie": "nl.imow-gm0335.gebied.fc608901937244e1888dda5e00d0649c",
+      "locatieType": "Gebied",
+      "noemer": "woongebied Montfoort",
+      "boundingBox": {
+        "minx": 124285.647,
+        "maxx": 125668.121,
+        "miny": 449367.592,
+        "maxy": 451763.786
+      },
+      "isOntwerp": false,
+      "geometrieIdentificatie": "c6ff8320981c472db219f9d1569c18cf"
+    },
+    {
+      "identificatie": "nl.imow-gm0335.gebied.92068b8da8e34a328d99d4d9f15ba478",
+      "locatieType": "Gebied",
+      "noemer": "kaarsen- en glazendrukkerij",
+      "boundingBox": {
+        "minx": 125365.713,
+        "maxx": 125382.326,
+        "miny": 451271.293,
+        "maxy": 451285.278
+      },
+      "isOntwerp": false,
+      "geometrieIdentificatie": "67d1c8ed8673403f821a4978d2259054"
+    },
+    {
+      "identificatie": "nl.imow-gm0335.gebied.aa4e31e27a504e87b5e8f7821b5830f4",
+      "locatieType": "Gebied",
+      "noemer": "centrumgebied",
+      "boundingBox": {
+        "minx": 124550.806,
+        "maxx": 125285.257,
+        "miny": 450519.12,
+        "maxy": 451354.087
+      },
+      "isOntwerp": false,
+      "geometrieIdentificatie": "a5994f5ee99b406984df7d810f183c65"
+    },
+    {
+      "identificatie": "nl.imow-gm0335.gebiedengroep.20b0916685e341d2a89c636bfe7ddd06",
+      "locatieType": "Gebiedengroep",
+      "noemer": "bedrijfsactiviteiten",
+      "boundingBox": {
+        "minx": 124288.824,
+        "maxx": 125407.747,
+        "miny": 450432.452,
+        "maxy": 451286.409
+      },
+      "isOntwerp": false,
+      "omvat": [
+        "646a61a3493b440f858bb02505b10157",
+        "6a8b541da41c4074ac0a05e72c96cd97",
+        "da7ab2d679564330b7550cc5b5317775",
+        "9459e93cc7e3485294d94a412a034fc4",
+        "0e830191bcdf4893b2d2d8b775a78d0a",
+        "ea23ae2caeb64ddfb97c6f2c65642dfb",
+        "b1360df344974d0db0d974844a26ef9e",
+        "f3008d1abbab43b7a551d5fc7b81171c",
+        "5ae5f7fb12e64cf79b972616d03b4b3a",
+        "1f818131d9f14d1daf2d03c919a7e97e",
+        "29dc2540b9d842b5a1bbf49dad73efbc",
+        "926289ed791143689f3ac6eb6cd842c5",
+        "1b65d5b6e87d42c893a61b3d1e69fd62",
+        "010e05b698454921a6cb5e8945dfede1",
+        "67d1c8ed8673403f821a4978d2259054"
+      ]
+    }
+  ],
+  "appVersion": "0.18.0",
+  "migrationVersion": "0.10.1",
+  "updatedAt": {
+    "$date": "2025-08-18T11:35:08.533Z"
+  }
+}
